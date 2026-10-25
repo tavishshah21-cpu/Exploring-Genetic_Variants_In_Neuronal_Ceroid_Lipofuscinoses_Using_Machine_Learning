@@ -1,0 +1,2 @@
+Gene,Training_year,Method,Selection_metric,Threshold,OOF_F1,OOF_ROC_AUC
+CLN2,2025,5-fold out-of-fold predictions,F1-score,0.1635108234209831,0.9557522123888813,0.9434706397896583

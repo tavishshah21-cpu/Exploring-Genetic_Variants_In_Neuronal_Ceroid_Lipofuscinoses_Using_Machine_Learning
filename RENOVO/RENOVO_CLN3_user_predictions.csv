@@ -1,0 +1,2 @@
+Gene,Variant_ID,Algorithm,Training_Year,Known_Features,Predicted_Label,Predicted_Class,Pathogenic_Probability,Benign_Probability,Threshold
+CLN3,234,RENOVO XGBoost,2026,1,0,BENIGN,0.0018521088641136885,0.9981479048728943,0.6159903407096863

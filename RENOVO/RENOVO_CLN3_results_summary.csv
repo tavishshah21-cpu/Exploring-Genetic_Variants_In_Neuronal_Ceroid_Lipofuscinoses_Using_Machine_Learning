@@ -1,0 +1,2 @@
+Gene,Algorithm,Train_year,Test_year,Accuracy,ROC_AUC,PR_AUC,Mean_CV_ROC_AUC_2025,Combined_OOF_ROC_AUC_2025,Threshold,Threshold_Source,Train_size,Test_size,Train_Pathogenic,Train_Benign,Test_Pathogenic,Test_Benign,Numeric_Feature_Count,Categorical_Feature_Count,Exact_Overlap_Removed
+CLN3,RENOVO pipeline - XGBoost implementation,2025,2026,0.9872,0.9991,0.9979,0.9979,0.9978,0.5359053015708923,2025 5-fold OOF predictions,437,469,146,291,167,302,25,0,0

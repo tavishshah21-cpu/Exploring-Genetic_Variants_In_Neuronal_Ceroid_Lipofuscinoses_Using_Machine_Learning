@@ -1,0 +1,2 @@
+Gene,Train_year,Training_rows,Feature_count,Train_Pathogenic,Train_Benign,Threshold,Threshold_source,OOF_ROC_AUC,OOF_F1_at_threshold
+CLN3,2026,469,54,167,302,0.586,5-fold out-of-fold predictions on full 2026 dataset,0.9936,0.9571

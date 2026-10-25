@@ -1,0 +1,2 @@
+Gene,Pipeline,Algorithm,Train_year,Test_year,Accuracy,ROC_AUC,PR_AUC,CV_ROC_2025,OOF_ROC_AUC_2025,OOF_F1_2025,Threshold,Threshold_source,Train_size,Test_size,Train_Pathogenic,Train_Benign,Test_Pathogenic,Test_Benign
+CLN2,RENOVO,Random Forest,2025,2026,0.935,0.9879,0.9981,0.9443,0.9435,0.9558,0.163511,2025 OOF predictions,184,200,163,21,175,25

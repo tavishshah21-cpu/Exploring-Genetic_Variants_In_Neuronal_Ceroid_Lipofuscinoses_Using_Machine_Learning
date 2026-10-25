@@ -1,0 +1,2 @@
+Training_year,Method,Threshold_metric,Threshold,OOF_F1,OOF_ROC_AUC
+2026,Five-fold out-of-fold predictions,F1-score,0.6305648883471898,0.972644376899196,0.9951818217868897

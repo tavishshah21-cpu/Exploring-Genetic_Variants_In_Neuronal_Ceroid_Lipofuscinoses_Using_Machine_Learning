@@ -1,0 +1,397 @@
+Rank,Original_Row,VariationID,GeneSymbol,ClinicalSignificance,Chromosome,Start,ReferenceAllele,AlternateAllele,Name,Assembly,residue_position,alt_aa,XGB_Pathogenic_Probability,XGB_Pathogenic_Percentage,Predicted_Class,Pathogenicity_Priority
+1,36,424229,TPP1,uncertain significance,11,6618799,G,C,NM_000391.4(TPP1):c.206C>G (p.Ser69Trp),GRCh38,69.0,W,0.9131,91.31,Pathogenic,Very High
+2,40,451169,TPP1,uncertain significance,11,6616321,C,T,NM_000391.4(TPP1):c.1069G>A (p.Ala357Thr),GRCh38,357.0,T,0.9131,91.31,Pathogenic,Very High
+3,48,457946,TPP1,uncertain significance,11,6617036,T,C,NM_000391.4(TPP1):c.626A>G (p.Tyr209Cys),GRCh38,209.0,C,0.9131,91.31,Pathogenic,Very High
+4,55,527742,TPP1,uncertain significance,11,6616739,C,T,NM_000391.4(TPP1):c.808G>A (p.Gly270Arg),GRCh38,270.0,R,0.9131,91.31,Pathogenic,Very High
+5,91,856651,TPP1,uncertain significance,11,6616321,C,G,NM_000391.4(TPP1):c.1069G>C (p.Ala357Pro),GRCh38,357.0,P,0.9131,91.31,Pathogenic,Very High
+6,137,1009213,TPP1,uncertain significance,11,6617734,G,A,NM_000391.4(TPP1):c.272C>T (p.Pro91Leu),GRCh38,91.0,L,0.9131,91.31,Pathogenic,Very High
+7,145,1014918,TPP1,uncertain significance,11,6615546,C,T,NM_000391.4(TPP1):c.1162G>A (p.Val388Met),GRCh38,388.0,M,0.9131,91.31,Pathogenic,Very High
+8,189,1429933,TPP1,uncertain significance,11,6616383,T,C,NM_000391.4(TPP1):c.1007A>G (p.Tyr336Cys),GRCh38,336.0,C,0.9131,91.31,Pathogenic,Very High
+9,249,1705669,TPP1,uncertain significance,11,6615540,C,G,NM_000391.4(TPP1):c.1168G>C (p.Gly390Arg),GRCh38,390.0,R,0.9131,91.31,Pathogenic,Very High
+10,254,1761946,TPP1,uncertain significance,11,6616739,C,G,NM_000391.4(TPP1):c.808G>C (p.Gly270Arg),GRCh38,270.0,R,0.9131,91.31,Pathogenic,Very High
+11,274,2414350,TPP1,uncertain significance,11,6615482,C,A,NM_000391.4(TPP1):c.1226G>T (p.Gly409Val),GRCh38,409.0,V,0.9131,91.31,Pathogenic,Very High
+12,280,1948679,TPP1,uncertain significance,11,6614981,G,A,NM_000391.4(TPP1):c.1436C>T (p.Pro479Leu),GRCh38,479.0,L,0.9131,91.31,Pathogenic,Very High
+13,285,1956608,TPP1,uncertain significance,11,6617048,A,G,NM_000391.4(TPP1):c.614T>C (p.Ile205Thr),GRCh38,205.0,T,0.9131,91.31,Pathogenic,Very High
+14,296,2012692,TPP1,uncertain significance,11,6615480,C,A,NM_000391.4(TPP1):c.1228G>T (p.Gly410Cys),GRCh38,410.0,C,0.9131,91.31,Pathogenic,Very High
+15,318,2132665,TPP1,uncertain significance,11,6615476,C,A,NM_000391.4(TPP1):c.1232G>T (p.Gly411Val),GRCh38,411.0,V,0.9131,91.31,Pathogenic,Very High
+16,324,2437216,TPP1,uncertain significance,11,6615245,C,T,NM_000391.4(TPP1):c.1351G>A (p.Asp451Asn),GRCh38,451.0,N,0.9131,91.31,Pathogenic,Very High
+17,344,3769352,TPP1,uncertain significance,11,6617037,A,G,NM_000391.4(TPP1):c.625T>C (p.Tyr209His),GRCh38,209.0,H,0.9131,91.31,Pathogenic,Very High
+18,346,3776028,TPP1,uncertain significance,11,6616329,A,G,NM_000391.4(TPP1):c.1061T>C (p.Leu354Pro),GRCh38,354.0,P,0.9131,91.31,Pathogenic,Very High
+19,383,4853772,TPP1,uncertain significance,11,6615256,C,A,NM_000391.4(TPP1):c.1340G>T (p.Arg447Leu),GRCh38,447.0,L,0.9131,91.31,Pathogenic,Very High
+20,386,4856209,TPP1,uncertain significance,11,6614592,C,G,NM_000391.4(TPP1):c.1646G>C (p.Gly549Ala),GRCh38,549.0,A,0.9131,91.31,Pathogenic,Very High
+21,57,554257,TPP1,uncertain significance,11,6617352,A,G,NM_000391.4(TPP1):c.457T>C (p.Ser153Pro),GRCh38,153.0,P,0.910519,91.05,Pathogenic,Very High
+22,129,990501,TPP1,uncertain significance,11,6617148,C,T,NM_000391.4(TPP1):c.514G>A (p.Gly172Arg),GRCh38,172.0,R,0.910519,91.05,Pathogenic,Very High
+23,222,1389145,TPP1,uncertain significance,11,6615251,A,T,NM_000391.4(TPP1):c.1345T>A (p.Tyr449Asn),GRCh38,449.0,N,0.910519,91.05,Pathogenic,Very High
+24,230,1487259,TPP1,uncertain significance,11,6618850,G,T,NM_000391.4(TPP1):c.155C>A (p.Ala52Asp),GRCh38,52.0,D,0.910519,91.05,Pathogenic,Very High
+25,275,1905294,TPP1,uncertain significance,11,6617147,C,T,NM_000391.4(TPP1):c.515G>A (p.Gly172Glu),GRCh38,172.0,E,0.910519,91.05,Pathogenic,Very High
+26,125,969895,TPP1,uncertain significance,11,6616425,G,A,NM_000391.4(TPP1):c.965C>T (p.Thr322Ile),GRCh38,322.0,I,0.910154,91.02,Pathogenic,Very High
+27,276,1912615,TPP1,uncertain significance,11,6614601,G,A,NM_000391.4(TPP1):c.1637C>T (p.Thr546Ile),GRCh38,546.0,I,0.910154,91.02,Pathogenic,Very High
+28,382,4852907,TPP1,uncertain significance,11,6617153,A,T,NM_000391.4(TPP1):c.509T>A (p.Val170Glu),GRCh38,170.0,E,0.910154,91.02,Pathogenic,Very High
+29,240,1474639,TPP1,uncertain significance,11,6614952,T,C,NM_000391.4(TPP1):c.1465A>G (p.Asn489Asp),GRCh38,489.0,D,0.909285,90.93,Pathogenic,Very High
+30,266,2162668,TPP1,uncertain significance,11,6618853,A,G,NM_000391.4(TPP1):c.152T>C (p.Phe51Ser),GRCh38,51.0,S,0.908022,90.8,Pathogenic,Very High
+31,312,2129152,TPP1,uncertain significance,11,6614586,G,C,NM_000391.4(TPP1):c.1652C>G (p.Pro551Arg),GRCh38,551.0,R,0.907889,90.79,Pathogenic,Very High
+32,206,1508037,TPP1,uncertain significance,11,6617702,A,G,NM_000391.4(TPP1):c.304T>C (p.Trp102Arg),GRCh38,102.0,R,0.907648,90.76,Pathogenic,Very High
+33,332,2687857,TPP1,uncertain significance,11,6615229,G,T,NM_000391.4(TPP1):c.1367C>A (p.Ser456Tyr),GRCh38,456.0,Y,0.907067,90.71,Pathogenic,Very High
+34,31,408909,TPP1,uncertain significance,11,6614951,T,C,NM_000391.4(TPP1):c.1466A>G (p.Asn489Ser),GRCh38,489.0,S,0.905311,90.53,Pathogenic,Very High
+35,116,954685,TPP1,uncertain significance,11,6615480,C,T,NM_000391.4(TPP1):c.1228G>A (p.Gly410Ser),GRCh38,410.0,S,0.905311,90.53,Pathogenic,Very High
+36,242,1462114,TPP1,uncertain significance,11,6614903,G,A,NM_000391.4(TPP1):c.1514C>T (p.Pro505Leu),GRCh38,505.0,L,0.905311,90.53,Pathogenic,Very High
+37,304,2056232,TPP1,uncertain significance,11,6615545,A,G,NM_000391.4(TPP1):c.1163T>C (p.Val388Ala),GRCh38,388.0,A,0.905311,90.53,Pathogenic,Very High
+38,281,1943065,TPP1,uncertain significance,11,6616351,C,G,NM_000391.4(TPP1):c.1039G>C (p.Ala347Pro),GRCh38,347.0,P,0.904292,90.43,Pathogenic,Very High
+39,291,1994696,TPP1,uncertain significance,11,6617321,A,G,NM_000391.4(TPP1):c.488T>C (p.Leu163Ser),GRCh38,163.0,S,0.903973,90.4,Pathogenic,Very High
+40,159,1051286,TPP1,uncertain significance,11,6614595,C,T,NM_000391.4(TPP1):c.1643G>A (p.Trp548Ter),GRCh38,548.0,,0.902706,90.27,Pathogenic,Very High
+41,384,4854340,TPP1,uncertain significance,11,6616732,T,G,NM_000391.4(TPP1):c.815A>C (p.Glu272Ala),GRCh38,272.0,A,0.90243,90.24,Pathogenic,Very High
+42,35,423901,TPP1,uncertain significance,11,6617151,C,G,NM_000391.4(TPP1):c.511G>C (p.Gly171Arg),GRCh38,171.0,R,0.901948,90.19,Pathogenic,Very High
+43,239,1365156,TPP1,uncertain significance,11,6616347,G,T,NM_000391.4(TPP1):c.1043C>A (p.Ala348Asp),GRCh38,348.0,D,0.901948,90.19,Pathogenic,Very High
+44,345,3775721,TPP1,uncertain significance,11,6616008,G,A,NM_000391.4(TPP1):c.1142C>T (p.Ser381Phe),GRCh38,381.0,F,0.901948,90.19,Pathogenic,Very High
+45,119,963509,TPP1,uncertain significance,11,6616341,C,G,NM_000391.4(TPP1):c.1049G>C (p.Arg350Pro),GRCh38,350.0,P,0.900646,90.06,Pathogenic,Very High
+46,306,2069634,TPP1,uncertain significance,11,6615552,T,G,NM_000391.4(TPP1):c.1156A>C (p.Thr386Pro),GRCh38,386.0,P,0.900646,90.06,Pathogenic,Very High
+47,68,585076,TPP1,uncertain significance,11,6616488,T,G,NM_000391.4(TPP1):c.902A>C (p.Gln301Pro),GRCh38,301.0,P,0.898796,89.88,Pathogenic,High
+48,223,1402653,TPP1,uncertain significance,11,6615560,G,A,NM_000391.4(TPP1):c.1148C>T (p.Pro383Leu),GRCh38,383.0,L,0.898782,89.88,Pathogenic,High
+49,343,3704086,TPP1,uncertain significance,11,6616832,C,T,NM_000391.4(TPP1):c.715G>A (p.Asp239Asn),GRCh38,239.0,N,0.897325,89.73,Pathogenic,High
+50,150,1037196,TPP1,uncertain significance,11,6614950,A,T,NM_000391.4(TPP1):c.1467T>A (p.Asn489Lys),GRCh38,489.0,K,0.896346,89.63,Pathogenic,High
+51,10,207591,TPP1,uncertain significance,11,6615307,A,T,NM_000391.4(TPP1):c.1289T>A (p.Leu430Gln),GRCh38,430.0,Q,0.896298,89.63,Pathogenic,High
+52,253,1767474,TPP1,uncertain significance,11,6616432,C,T,NM_000391.4(TPP1):c.958G>A (p.Val320Met),GRCh38,320.0,M,0.896298,89.63,Pathogenic,High
+53,52,527755,TPP1,uncertain significance,11,6616431,A,C,NM_000391.4(TPP1):c.959T>G (p.Val320Gly),GRCh38,320.0,G,0.896032,89.6,Pathogenic,High
+54,375,4189507,TPP1,uncertain significance,11,6617307,C,A,NM_000391.4(TPP1):c.502G>T (p.Asp168Tyr),GRCh38,168.0,Y,0.895838,89.58,Pathogenic,High
+55,164,1163922,TPP1,uncertain significance,11,6615483,C,T,NM_000391.4(TPP1):c.1225G>A (p.Gly409Ser),GRCh38,409.0,S,0.895824,89.58,Pathogenic,High
+56,54,527734,TPP1,uncertain significance,11,6616016,G,C,NM_000391.4(TPP1):c.1134C>G (p.Phe378Leu),GRCh38,378.0,L,0.895725,89.57,Pathogenic,High
+57,313,2121808,TPP1,uncertain significance,11,6614568,A,G,NM_000391.4(TPP1):c.1670T>C (p.Leu557Pro),GRCh38,557.0,P,0.895725,89.57,Pathogenic,High
+58,197,1423529,TPP1,uncertain significance,11,6616005,C,T,NM_000391.4(TPP1):c.1145G>A (p.Ser382Asn),GRCh38,382.0,N,0.895215,89.52,Pathogenic,High
+59,311,2109056,TPP1,uncertain significance,11,6614904,G,A,NM_000391.4(TPP1):c.1513C>T (p.Pro505Ser),GRCh38,505.0,S,0.894092,89.41,Pathogenic,High
+60,2,193583,TPP1,uncertain significance,11,6615467,T,A,NM_000391.4(TPP1):c.1241A>T (p.Asn414Ile),GRCh38,414.0,I,0.893795,89.38,Pathogenic,High
+61,4,198076,TPP1,uncertain significance,11,6617139,G,A,NM_000391.4(TPP1):c.523C>T (p.Arg175Cys),GRCh38,175.0,C,0.893276,89.33,Pathogenic,High
+62,42,457948,TPP1,uncertain significance,11,6616681,G,T,NM_000391.4(TPP1):c.866C>A (p.Thr289Asn),GRCh38,289.0,N,0.893276,89.33,Pathogenic,High
+63,198,1433624,TPP1,uncertain significance,11,6616398,G,C,NM_000391.4(TPP1):c.992C>G (p.Ser331Cys),GRCh38,331.0,C,0.893276,89.33,Pathogenic,High
+64,241,1379986,TPP1,uncertain significance,11,6617153,A,G,NM_000391.4(TPP1):c.509T>C (p.Val170Ala),GRCh38,170.0,A,0.892376,89.24,Pathogenic,High
+65,179,1362500,TPP1,uncertain significance,11,6614866,A,C,NM_000391.4(TPP1):c.1551T>G (p.Asp517Glu),GRCh38,517.0,E,0.891961,89.2,Pathogenic,High
+66,278,1920628,TPP1,uncertain significance,11,6615216,C,G,NM_000391.4(TPP1):c.1380G>C (p.Trp460Cys),GRCh38,460.0,C,0.891735,89.17,Pathogenic,High
+67,321,2231378,TPP1,uncertain significance,11,6616485,T,C,NM_000391.4(TPP1):c.905A>G (p.Glu302Gly),GRCh38,302.0,G,0.891728,89.17,Pathogenic,High
+68,118,960594,TPP1,uncertain significance,11,6616008,G,C,NM_000391.4(TPP1):c.1142C>G (p.Ser381Cys),GRCh38,381.0,C,0.890138,89.01,Pathogenic,High
+69,28,225692,TPP1,uncertain significance,11,6616361,C,G,NM_000391.4(TPP1):c.1029G>C (p.Glu343Asp),GRCh38,343.0,D,0.890073,89.01,Pathogenic,High
+70,234,1431515,TPP1,uncertain significance,11,6617150,C,T,NM_000391.4(TPP1):c.512G>A (p.Gly171Glu),GRCh38,171.0,E,0.889739,88.97,Pathogenic,High
+71,190,1362951,TPP1,uncertain significance,11,6617420,T,C,NM_000391.4(TPP1):c.389A>G (p.Glu130Gly),GRCh38,130.0,G,0.887505,88.75,Pathogenic,High
+72,263,2163465,TPP1,uncertain significance,11,6618779,A,G,NM_000391.4(TPP1):c.226T>C (p.Tyr76His),GRCh38,76.0,H,0.887505,88.75,Pathogenic,High
+73,224,1429764,TPP1,uncertain significance,11,6614594,C,T,NM_000391.4(TPP1):c.1644G>A (p.Trp548Ter),GRCh38,548.0,,0.887449,88.74,Pathogenic,High
+74,342,3600142,TPP1,uncertain significance,11,6618910,G,C,NM_000391.4(TPP1):c.95C>G (p.Pro32Arg),GRCh38,32.0,R,0.886735,88.67,Pathogenic,High
+75,128,990499,TPP1,uncertain significance,11,6616060,C,T,NM_000391.4(TPP1):c.1090G>A (p.Gly364Arg),GRCh38,364.0,R,0.886587,88.66,Pathogenic,High
+76,334,2957713,TPP1,uncertain significance,11,6615453,G,C,NM_000391.4(TPP1):c.1255C>G (p.Pro419Ala),GRCh38,419.0,A,0.886572,88.66,Pathogenic,High
+77,289,1991712,TPP1,uncertain significance,11,6617722,G,A,NM_000391.4(TPP1):c.284C>T (p.Thr95Ile),GRCh38,95.0,I,0.886022,88.6,Pathogenic,High
+78,307,2084831,TPP1,uncertain significance,11,6615551,G,A,NM_000391.4(TPP1):c.1157C>T (p.Thr386Ile),GRCh38,386.0,I,0.885999,88.6,Pathogenic,High
+79,330,2584878,TPP1,uncertain significance,11,6614559,A,G,NM_000391.4(TPP1):c.1679T>C (p.Leu560Pro),GRCh38,560.0,P,0.885915,88.59,Pathogenic,High
+80,352,4062342,TPP1,uncertain significance,11,6616324,A,G,NM_000391.4(TPP1):c.1066T>C (p.Phe356Leu),GRCh38,356.0,L,0.885915,88.59,Pathogenic,High
+81,388,1009137,TPP1,uncertain significance,11,6619204,CT,AA,NM_000391.4(TPP1):c.80_81delinsTT (p.Gln27Leu),GRCh38,27.0,L,0.88529,88.53,Pathogenic,High
+82,176,1360480,TPP1,uncertain significance,11,6616795,A,G,NM_000391.4(TPP1):c.752T>C (p.Phe251Ser),GRCh38,251.0,S,0.883303,88.33,Pathogenic,High
+83,151,1037329,TPP1,uncertain significance,11,6615215,C,A,NM_000391.4(TPP1):c.1381G>T (p.Val461Leu),GRCh38,461.0,L,0.88328,88.33,Pathogenic,High
+84,126,982727,TPP1,uncertain significance,11,6616704,C,T,NM_000391.4(TPP1):c.843G>A (p.Met281Ile),GRCh38,281.0,I,0.88263,88.26,Pathogenic,High
+85,60,576905,TPP1,uncertain significance,11,6616027,G,A,NM_000391.4(TPP1):c.1123C>T (p.Arg375Cys),GRCh38,375.0,C,0.882277,88.23,Pathogenic,High
+86,82,649290,TPP1,uncertain significance,11,6618803,C,T,NM_000391.4(TPP1):c.202G>A (p.Val68Met),GRCh38,68.0,M,0.88082,88.08,Pathogenic,High
+87,14,207585,TPP1,uncertain significance,11,6616398,G,A,NM_000391.4(TPP1):c.992C>T (p.Ser331Phe),GRCh38,331.0,F,0.88049,88.05,Pathogenic,High
+88,133,1000278,TPP1,uncertain significance,11,6616398,G,T,NM_000391.4(TPP1):c.992C>A (p.Ser331Tyr),GRCh38,331.0,Y,0.88049,88.05,Pathogenic,High
+89,212,1374287,TPP1,uncertain significance,11,6617033,T,C,NM_000391.4(TPP1):c.629A>G (p.Asn210Ser),GRCh38,210.0,S,0.88049,88.05,Pathogenic,High
+90,337,3242108,TPP1,uncertain significance,11,6618841,T,C,NM_000391.4(TPP1):c.164A>G (p.Gln55Arg),GRCh38,55.0,R,0.879806,87.98,Pathogenic,High
+91,56,556797,TPP1,uncertain significance,11,6614596,A,G,NM_000391.4(TPP1):c.1642T>C (p.Trp548Arg),GRCh38,548.0,R,0.87952,87.95,Pathogenic,High
+92,376,4633465,TPP1,uncertain significance,11,6616489,G,C,NM_000391.4(TPP1):c.901C>G (p.Gln301Glu),GRCh38,301.0,E,0.877028,87.7,Pathogenic,High
+93,327,2437219,TPP1,uncertain significance,11,6617711,C,T,NM_000391.4(TPP1):c.295G>A (p.Val99Met),GRCh38,99.0,M,0.876576,87.66,Pathogenic,High
+94,298,2024206,TPP1,uncertain significance,11,6615551,G,C,NM_000391.4(TPP1):c.1157C>G (p.Thr386Ser),GRCh38,386.0,S,0.87602,87.6,Pathogenic,High
+95,378,4687496,TPP1,uncertain significance,11,6615485,C,G,NM_000391.4(TPP1):c.1223G>C (p.Ser408Thr),GRCh38,408.0,T,0.875458,87.55,Pathogenic,High
+96,173,1494606,TPP1,uncertain significance,11,6614956,C,G,NM_000391.4(TPP1):c.1461G>C (p.Leu487Phe),GRCh38,487.0,F,0.874374,87.44,Pathogenic,High
+97,338,3251468,TPP1,uncertain significance,11,6615562,G,T,NM_000391.4(TPP1):c.1146C>A (p.Ser382Arg),GRCh38,382.0,R,0.873923,87.39,Pathogenic,High
+98,335,3011062,TPP1,uncertain significance,11,6616497,T,G,NM_000391.4(TPP1):c.893A>C (p.His298Pro),GRCh38,298.0,P,0.873726,87.37,Pathogenic,High
+99,316,2130987,TPP1,uncertain significance,11,6614605,C,A,NM_000391.4(TPP1):c.1633G>T (p.Val545Leu),GRCh38,545.0,L,0.873444,87.34,Pathogenic,High
+100,370,4062371,TPP1,uncertain significance,11,6616979,G,C,NM_000391.4(TPP1):c.683C>G (p.Ala228Gly),GRCh38,228.0,G,0.873444,87.34,Pathogenic,High
+101,379,4749047,TPP1,uncertain significance,11,6616427,A,C,NM_000391.4(TPP1):c.963T>G (p.His321Gln),GRCh38,321.0,Q,0.873215,87.32,Pathogenic,High
+102,74,663364,TPP1,uncertain significance,11,6616005,C,G,NM_000391.4(TPP1):c.1145G>C (p.Ser382Thr),GRCh38,382.0,T,0.87284,87.28,Pathogenic,High
+103,288,1990195,TPP1,uncertain significance,11,6614978,A,G,NM_000391.4(TPP1):c.1439T>C (p.Val480Ala),GRCh38,480.0,A,0.872491,87.25,Pathogenic,High
+104,360,4062354,TPP1,uncertain significance,11,6616456,T,C,NM_000391.4(TPP1):c.934A>G (p.Ser312Gly),GRCh38,312.0,G,0.872491,87.25,Pathogenic,High
+105,363,4062359,TPP1,uncertain significance,11,6616702,C,G,NM_000391.4(TPP1):c.845G>C (p.Ser282Thr),GRCh38,282.0,T,0.871897,87.19,Pathogenic,High
+106,178,1443267,TPP1,uncertain significance,11,6617132,G,A,NM_000391.4(TPP1):c.530C>T (p.Pro177Leu),GRCh38,177.0,L,0.871826,87.18,Pathogenic,High
+107,181,1373497,TPP1,uncertain significance,11,6615185,C,T,NM_000391.4(TPP1):c.1411G>A (p.Val471Met),GRCh38,471.0,M,0.871692,87.17,Pathogenic,High
+108,87,806610,TPP1,uncertain significance,11,6616668,A,C,NM_000391.4(TPP1):c.879T>G (p.Ser293Arg),GRCh38,293.0,R,0.87158,87.16,Pathogenic,High
+109,385,4854601,TPP1,uncertain significance,11,6616768,A,C,NM_000391.4(TPP1):c.779T>G (p.Val260Gly),GRCh38,260.0,G,0.870428,87.04,Pathogenic,High
+110,227,1351932,TPP1,uncertain significance,11,6616730,C,A,NM_000391.4(TPP1):c.817G>T (p.Ala273Ser),GRCh38,273.0,S,0.869853,86.99,Pathogenic,High
+111,20,207573,TPP1,uncertain significance,11,6617312,T,A,NM_000391.4(TPP1):c.497A>T (p.His166Leu),GRCh38,166.0,L,0.869086,86.91,Pathogenic,High
+112,13,207587,TPP1,uncertain significance,11,6616012,C,T,NM_000391.4(TPP1):c.1138G>A (p.Ala380Thr),GRCh38,380.0,T,0.868851,86.89,Pathogenic,High
+113,215,1428844,TPP1,uncertain significance,11,6617393,T,C,NM_000391.4(TPP1):c.416A>G (p.His139Arg),GRCh38,139.0,R,0.868851,86.89,Pathogenic,High
+114,217,1440475,TPP1,uncertain significance,11,6616324,A,T,NM_000391.4(TPP1):c.1066T>A (p.Phe356Ile),GRCh38,356.0,I,0.868851,86.89,Pathogenic,High
+115,322,2285078,TPP1,uncertain significance,11,6617394,G,A,NM_000391.4(TPP1):c.415C>T (p.His139Tyr),GRCh38,139.0,Y,0.868851,86.89,Pathogenic,High
+116,286,1959492,TPP1,uncertain significance,11,6614877,C,G,NM_000391.4(TPP1):c.1540G>C (p.Gly514Arg),GRCh38,514.0,R,0.868832,86.88,Pathogenic,High
+117,244,1491324,TPP1,uncertain significance,11,6617388,A,G,NM_000391.4(TPP1):c.421T>C (p.Tyr141His),GRCh38,141.0,H,0.868725,86.87,Pathogenic,High
+118,61,570396,TPP1,uncertain significance,11,6616735,A,G,NM_000391.4(TPP1):c.812T>C (p.Ile271Thr),GRCh38,271.0,T,0.866764,86.68,Pathogenic,High
+119,120,960590,TPP1,uncertain significance,11,6616356,A,C,NM_000391.4(TPP1):c.1034T>G (p.Met345Arg),GRCh38,345.0,R,0.866608,86.66,Pathogenic,High
+120,80,656691,TPP1,uncertain significance,11,6617711,C,G,NM_000391.4(TPP1):c.295G>C (p.Val99Leu),GRCh38,99.0,L,0.866388,86.64,Pathogenic,High
+121,81,656067,TPP1,uncertain significance,11,6618796,T,C,NM_000391.4(TPP1):c.209A>G (p.Asp70Gly),GRCh38,70.0,G,0.866388,86.64,Pathogenic,High
+122,292,1997255,TPP1,uncertain significance,11,6617641,C,A,NM_000391.4(TPP1):c.365G>T (p.Cys122Phe),GRCh38,122.0,F,0.866387,86.64,Pathogenic,High
+123,131,996968,TPP1,uncertain significance,11,6616796,A,G,NM_000391.4(TPP1):c.751T>C (p.Phe251Leu),GRCh38,251.0,L,0.865392,86.54,Pathogenic,High
+124,349,4062338,TPP1,uncertain significance,11,6617642,A,C,NM_000391.4(TPP1):c.364T>G (p.Cys122Gly),GRCh38,122.0,G,0.865364,86.54,Pathogenic,High
+125,229,1432459,TPP1,uncertain significance,11,6615461,A,T,NM_000391.4(TPP1):c.1247T>A (p.Phe416Tyr),GRCh38,416.0,Y,0.865103,86.51,Pathogenic,High
+126,46,457940,TPP1,uncertain significance,11,6614966,A,G,NM_000391.4(TPP1):c.1451T>C (p.Ile484Thr),GRCh38,484.0,T,0.863656,86.37,Pathogenic,High
+127,122,953300,TPP1,uncertain significance,11,6616777,A,G,NM_000391.4(TPP1):c.770T>C (p.Val257Ala),GRCh38,257.0,A,0.857994,85.8,Pathogenic,High
+128,256,2141591,TPP1,uncertain significance,11,6614979,C,T,NM_000391.4(TPP1):c.1438G>A (p.Val480Met),GRCh38,480.0,M,0.857994,85.8,Pathogenic,High
+129,257,2143171,TPP1,uncertain significance,11,6616468,G,A,NM_000391.4(TPP1):c.922C>T (p.Leu308Phe),GRCh38,308.0,F,0.857994,85.8,Pathogenic,High
+130,19,207575,TPP1,uncertain significance,11,6617142,G,A,NM_000391.4(TPP1):c.520C>T (p.His174Tyr),GRCh38,174.0,Y,0.855509,85.55,Pathogenic,High
+131,41,457938,TPP1,uncertain significance,11,6615268,T,C,NM_000391.4(TPP1):c.1328A>G (p.Asn443Ser),GRCh38,443.0,S,0.855509,85.55,Pathogenic,High
+132,271,2196166,TPP1,uncertain significance,11,6617039,C,T,NM_000391.4(TPP1):c.623G>A (p.Arg208Gln),GRCh38,208.0,Q,0.855509,85.55,Pathogenic,High
+133,140,1008677,TPP1,uncertain significance,11,6618911,G,A,NM_000391.4(TPP1):c.94C>T (p.Pro32Ser),GRCh38,32.0,S,0.854267,85.43,Pathogenic,High
+134,155,1036563,TPP1,uncertain significance,11,6617732,A,G,NM_000391.4(TPP1):c.274T>C (p.Ser92Pro),GRCh38,92.0,P,0.854267,85.43,Pathogenic,High
+135,172,1518791,TPP1,uncertain significance,11,6617731,G,T,NM_000391.4(TPP1):c.275C>A (p.Ser92Tyr),GRCh38,92.0,Y,0.854267,85.43,Pathogenic,High
+136,221,1359958,TPP1,uncertain significance,11,6617339,T,A,NM_000391.4(TPP1):c.470A>T (p.Tyr157Phe),GRCh38,157.0,F,0.854267,85.43,Pathogenic,High
+137,63,567546,TPP1,uncertain significance,11,6614625,G,C,NM_000391.4(TPP1):c.1613C>G (p.Ser538Cys),GRCh38,538.0,C,0.85401,85.4,Pathogenic,High
+138,146,1026862,TPP1,uncertain significance,11,6616805,C,T,NM_000391.4(TPP1):c.742G>A (p.Gly248Ser),GRCh38,248.0,S,0.85401,85.4,Pathogenic,High
+139,121,954818,TPP1,uncertain significance,11,6616356,A,G,NM_000391.4(TPP1):c.1034T>C (p.Met345Thr),GRCh38,345.0,T,0.853586,85.36,Pathogenic,High
+140,353,4062343,TPP1,uncertain significance,11,6616063,C,T,NM_000391.4(TPP1):c.1087G>A (p.Ala363Thr),GRCh38,363.0,T,0.851466,85.15,Pathogenic,High
+141,62,572977,TPP1,uncertain significance,11,6616772,G,A,NM_000391.4(TPP1):c.775C>T (p.Arg259Cys),GRCh38,259.0,C,0.849151,84.92,Pathogenic,High
+142,305,2063811,TPP1,uncertain significance,11,6617320,C,G,NM_000391.4(TPP1):c.489G>C (p.Leu163Phe),GRCh38,163.0,F,0.848403,84.84,Pathogenic,High
+143,132,1001441,TPP1,uncertain significance,11,6614604,A,G,NM_000391.4(TPP1):c.1634T>C (p.Val545Ala),GRCh38,545.0,A,0.845853,84.59,Pathogenic,High
+144,348,4062337,TPP1,uncertain significance,11,6614958,A,T,NM_000391.4(TPP1):c.1459T>A (p.Leu487Met),GRCh38,487.0,M,0.844962,84.5,Pathogenic,High
+145,174,1439502,TPP1,uncertain significance,11,6614617,C,T,NM_000391.4(TPP1):c.1621G>A (p.Gly541Ser),GRCh38,541.0,S,0.839681,83.97,Pathogenic,High
+146,258,2147208,TPP1,uncertain significance,11,6618812,C,T,NM_000391.4(TPP1):c.193G>A (p.Val65Met),GRCh38,65.0,M,0.839437,83.94,Pathogenic,High
+147,123,972222,TPP1,uncertain significance,11,6614974,A,C,NM_000391.4(TPP1):c.1443T>G (p.Phe481Leu),GRCh38,481.0,L,0.839129,83.91,Pathogenic,High
+148,25,207562,TPP1,uncertain significance,11,6618877,G,C,NM_000391.4(TPP1):c.128C>G (p.Pro43Arg),GRCh38,43.0,R,0.835032,83.5,Pathogenic,High
+149,138,1009643,TPP1,uncertain significance,11,6618860,G,A,NM_000391.4(TPP1):c.145C>T (p.Leu49Phe),GRCh38,49.0,F,0.835032,83.5,Pathogenic,High
+150,314,2125275,TPP1,uncertain significance,11,6618877,G,A,NM_000391.4(TPP1):c.128C>T (p.Pro43Leu),GRCh38,43.0,L,0.835032,83.5,Pathogenic,High
+151,107,938967,TPP1,uncertain significance,11,6615223,C,T,NM_000391.4(TPP1):c.1373G>A (p.Gly458Asp),GRCh38,458.0,D,0.82603,82.6,Pathogenic,High
+152,162,1062372,TPP1,uncertain significance,11,6616473,T,A,NM_000391.4(TPP1):c.917A>T (p.Gln306Leu),GRCh38,306.0,L,0.82603,82.6,Pathogenic,High
+153,210,1373982,TPP1,uncertain significance,11,6617047,G,C,NM_000391.4(TPP1):c.615C>G (p.Ile205Met),GRCh38,205.0,M,0.825985,82.6,Pathogenic,High
+154,71,619137,TPP1,uncertain significance,11,6616070,G,T,NM_000391.4(TPP1):c.1080C>A (p.Asp360Glu),GRCh38,360.0,E,0.804673,80.47,Pathogenic,High
+155,22,207570,TPP1,uncertain significance,11,6617405,C,T,NM_000391.4(TPP1):c.404G>A (p.Gly135Glu),GRCh38,135.0,E,0.776756,77.68,Pathogenic,High
+156,209,1371569,TPP1,uncertain significance,11,6617330,G,A,NM_000391.4(TPP1):c.479C>T (p.Pro160Leu),GRCh38,160.0,L,0.77268,77.27,Pathogenic,High
+157,387,1004387,TPP1,uncertain significance,11,6616774,GC,TA,NM_000391.4(TPP1):c.772_773delinsTA (p.Ala258Tyr),GRCh38,258.0,Y,0.75618,75.62,Pathogenic,High
+158,323,2308679,TPP1,uncertain significance,11,6616503,C,T,NM_000391.4(TPP1):c.887G>A (p.Gly296Asp),GRCh38,296.0,D,0.753857,75.39,Pathogenic,High
+159,11,207589,TPP1,uncertain significance,11,6615491,T,C,NM_000391.4(TPP1):c.1217A>G (p.Tyr406Cys),GRCh38,406.0,C,0.753474,75.35,Pathogenic,High
+160,219,1377939,TPP1,uncertain significance,11,6616748,C,G,NM_000391.4(TPP1):c.799G>C (p.Gly267Arg),GRCh38,267.0,R,0.753442,75.34,Pathogenic,High
+161,3,196263,TPP1,uncertain significance,11,6618887,G,A,NM_000391.4(TPP1):c.118C>T (p.Arg40Cys),GRCh38,40.0,C,0.750079,75.01,Pathogenic,High
+162,228,1379786,TPP1,uncertain significance,11,6617331,G,C,NM_000391.4(TPP1):c.478C>G (p.Pro160Ala),GRCh38,160.0,A,0.749468,74.95,Pathogenic,Moderate
+163,277,1916075,TPP1,uncertain significance,11,6617027,G,A,NM_000391.4(TPP1):c.635C>T (p.Thr212Ile),GRCh38,212.0,I,0.745725,74.57,Pathogenic,Moderate
+164,341,3600140,TPP1,uncertain significance,11,6617027,G,T,NM_000391.4(TPP1):c.635C>A (p.Thr212Asn),GRCh38,212.0,N,0.745725,74.57,Pathogenic,Moderate
+165,109,934966,TPP1,uncertain significance,11,6616747,C,T,NM_000391.4(TPP1):c.800G>A (p.Gly267Asp),GRCh38,267.0,D,0.74549,74.55,Pathogenic,Moderate
+166,279,1930321,TPP1,uncertain significance,11,6617072,T,C,NM_000391.4(TPP1):c.590A>G (p.His197Arg),GRCh38,197.0,R,0.741631,74.16,Pathogenic,Moderate
+167,329,2533426,TPP1,uncertain significance,11,6616501,G,C,NM_000391.4(TPP1):c.889C>G (p.Arg297Gly),GRCh38,297.0,G,0.733605,73.36,Pathogenic,Moderate
+168,207,1508186,TPP1,uncertain significance,11,6615521,G,A,NM_000391.4(TPP1):c.1187C>T (p.Pro396Leu),GRCh38,396.0,L,0.733527,73.35,Pathogenic,Moderate
+169,347,3809823,TPP1,uncertain significance,11,6615458,G,T,NM_000391.4(TPP1):c.1250C>A (p.Pro417Gln),GRCh38,417.0,Q,0.729639,72.96,Pathogenic,Moderate
+170,115,960462,TPP1,uncertain significance,11,6614578,G,A,NM_000391.4(TPP1):c.1660C>T (p.Pro554Ser),GRCh38,554.0,S,0.727623,72.76,Pathogenic,Moderate
+171,251,1744826,TPP1,uncertain significance,11,6615518,A,C,NM_000391.4(TPP1):c.1190T>G (p.Phe397Cys),GRCh38,397.0,C,0.72482,72.48,Pathogenic,Moderate
+172,371,4062372,TPP1,uncertain significance,11,6615458,G,A,NM_000391.4(TPP1):c.1250C>T (p.Pro417Leu),GRCh38,417.0,L,0.721169,72.12,Pathogenic,Moderate
+173,136,1011442,TPP1,uncertain significance,11,6617069,A,G,NM_000391.4(TPP1):c.593T>C (p.Leu198Pro),GRCh38,198.0,P,0.718761,71.88,Pathogenic,Moderate
+174,184,1387157,TPP1,uncertain significance,11,6615522,G,T,NM_000391.4(TPP1):c.1186C>A (p.Pro396Thr),GRCh38,396.0,T,0.715176,71.52,Pathogenic,Moderate
+175,78,646653,TPP1,uncertain significance,11,6616853,C,T,NM_000391.4(TPP1):c.694G>A (p.Glu232Lys),GRCh38,232.0,K,0.710439,71.04,Pathogenic,Moderate
+176,196,1396676,TPP1,uncertain significance,11,6615522,G,A,NM_000391.4(TPP1):c.1186C>T (p.Pro396Ser),GRCh38,396.0,S,0.708592,70.86,Pathogenic,Moderate
+177,233,1418328,TPP1,uncertain significance,11,6614548,A,G,NM_000391.4(TPP1):c.1690T>C (p.Ter564Arg),GRCh38,564.0,R,0.707872,70.79,Pathogenic,Moderate
+178,359,4062353,TPP1,uncertain significance,11,6614547,C,G,NM_000391.4(TPP1):c.1691G>C (p.Ter564Ser),GRCh38,564.0,S,0.707872,70.79,Pathogenic,Moderate
+179,175,1525617,TPP1,uncertain significance,11,6615197,G,A,NM_000391.4(TPP1):c.1399C>T (p.Pro467Ser),GRCh38,467.0,S,0.706912,70.69,Pathogenic,Moderate
+180,124,972142,TPP1,uncertain significance,11,6615522,G,C,NM_000391.4(TPP1):c.1186C>G (p.Pro396Ala),GRCh38,396.0,A,0.701872,70.19,Pathogenic,Moderate
+181,270,2178096,TPP1,uncertain significance,11,6615197,G,C,NM_000391.4(TPP1):c.1399C>G (p.Pro467Ala),GRCh38,467.0,A,0.700169,70.02,Pathogenic,Moderate
+182,273,2193676,TPP1,uncertain significance,11,6618886,C,A,NM_000391.4(TPP1):c.119G>T (p.Arg40Leu),GRCh38,40.0,L,0.69722,69.72,Pathogenic,Moderate
+183,105,945654,TPP1,uncertain significance,11,6618905,C,T,NM_000391.4(TPP1):c.100G>A (p.Gly34Ser),GRCh38,34.0,S,0.677841,67.78,Pathogenic,Moderate
+184,50,501669,TPP1,uncertain significance,11,6616341,C,T,NM_000391.4(TPP1):c.1049G>A (p.Arg350Gln),GRCh38,350.0,Q,0.663018,66.3,Pathogenic,Moderate
+185,357,4062349,TPP1,uncertain significance,11,6614673,C,G,NM_000391.4(TPP1):c.1565G>C (p.Cys522Ser),GRCh38,522.0,S,0.662599,66.26,Pathogenic,Moderate
+186,6,207602,TPP1,uncertain significance,11,6614628,C,T,NM_000391.4(TPP1):c.1610G>A (p.Cys537Tyr),GRCh38,537.0,Y,0.659082,65.91,Pathogenic,Moderate
+187,18,207576,TPP1,uncertain significance,11,6617138,C,T,NM_000391.4(TPP1):c.524G>A (p.Arg175His),GRCh38,175.0,H,0.655757,65.58,Pathogenic,Moderate
+188,152,1045278,TPP1,uncertain significance,11,6616355,C,T,NM_000391.4(TPP1):c.1035G>A (p.Met345Ile),GRCh38,345.0,I,0.655719,65.57,Pathogenic,Moderate
+189,208,1492275,TPP1,uncertain significance,11,6616841,G,C,NM_000391.4(TPP1):c.706C>G (p.His236Asp),GRCh38,236.0,D,0.655719,65.57,Pathogenic,Moderate
+190,265,2158987,TPP1,uncertain significance,11,6616026,C,T,NM_000391.4(TPP1):c.1124G>A (p.Arg375His),GRCh38,375.0,H,0.655719,65.57,Pathogenic,Moderate
+191,350,4062339,TPP1,uncertain significance,11,6617343,G,T,NM_000391.4(TPP1):c.466C>A (p.Pro156Thr),GRCh38,156.0,T,0.654241,65.42,Pathogenic,Moderate
+192,201,1476004,TPP1,uncertain significance,11,6614673,C,T,NM_000391.4(TPP1):c.1565G>A (p.Cys522Tyr),GRCh38,522.0,Y,0.651977,65.2,Pathogenic,Moderate
+193,59,576289,TPP1,uncertain significance,11,6615456,G,A,NM_000391.4(TPP1):c.1252C>T (p.Arg418Trp),GRCh38,418.0,W,0.634678,63.47,Pathogenic,Moderate
+194,76,649155,TPP1,uncertain significance,11,6616765,A,G,NM_000391.4(TPP1):c.782T>C (p.Val261Ala),GRCh38,261.0,A,0.634678,63.47,Pathogenic,Moderate
+195,99,860859,TPP1,uncertain significance,11,6618881,C,A,NM_000391.4(TPP1):c.124G>T (p.Asp42Tyr),GRCh38,42.0,Y,0.634678,63.47,Pathogenic,Moderate
+196,110,937857,TPP1,uncertain significance,11,6616769,C,G,NM_000391.4(TPP1):c.778G>C (p.Val260Leu),GRCh38,260.0,L,0.634678,63.47,Pathogenic,Moderate
+197,163,1059824,TPP1,uncertain significance,11,6618860,G,C,NM_000391.4(TPP1):c.145C>G (p.Leu49Val),GRCh38,49.0,V,0.634678,63.47,Pathogenic,Moderate
+198,200,1408290,TPP1,uncertain significance,11,6616742,C,T,NM_000391.4(TPP1):c.805G>A (p.Ala269Thr),GRCh38,269.0,T,0.634678,63.47,Pathogenic,Moderate
+199,216,1358324,TPP1,uncertain significance,11,6614664,G,A,NM_000391.4(TPP1):c.1574C>T (p.Ser525Phe),GRCh38,525.0,F,0.634678,63.47,Pathogenic,Moderate
+200,246,1675144,TPP1,uncertain significance,11,6615465,C,T,NM_000391.4(TPP1):c.1243G>A (p.Val415Met),GRCh38,415.0,M,0.634678,63.47,Pathogenic,Moderate
+201,86,806609,TPP1,uncertain significance,11,6616667,T,A,NM_000391.4(TPP1):c.880A>T (p.Ser294Cys),GRCh38,294.0,C,0.627632,62.76,Pathogenic,Moderate
+202,142,1007273,TPP1,uncertain significance,11,6619206,G,C,NM_000391.4(TPP1):c.79C>G (p.Gln27Glu),GRCh38,27.0,E,0.627632,62.76,Pathogenic,Moderate
+203,168,1309539,TPP1,uncertain significance,11,6619218,G,A,NM_000391.4(TPP1):c.67C>T (p.Pro23Ser),GRCh38,23.0,S,0.627632,62.76,Pathogenic,Moderate
+204,7,207593,TPP1,uncertain significance,11,6615194,T,G,NM_000391.4(TPP1):c.1402A>C (p.Ile468Leu),GRCh38,468.0,L,0.62715,62.72,Pathogenic,Moderate
+205,58,573906,TPP1,uncertain significance,11,6616381,T,G,NM_000391.4(TPP1):c.1009A>C (p.Ile337Leu),GRCh38,337.0,L,0.62715,62.72,Pathogenic,Moderate
+206,66,580299,TPP1,uncertain significance,11,6615500,A,G,NM_000391.4(TPP1):c.1208T>C (p.Ile403Thr),GRCh38,403.0,T,0.62715,62.72,Pathogenic,Moderate
+207,69,590160,TPP1,uncertain significance,11,6617722,G,C,NM_000391.4(TPP1):c.284C>G (p.Thr95Ser),GRCh38,95.0,S,0.62715,62.72,Pathogenic,Moderate
+208,88,806611,TPP1,uncertain significance,11,6616688,T,C,NM_000391.4(TPP1):c.859A>G (p.Ile287Val),GRCh38,287.0,V,0.62715,62.72,Pathogenic,Moderate
+209,102,946736,TPP1,uncertain significance,11,6614575,C,T,NM_000391.4(TPP1):c.1663G>A (p.Ala555Thr),GRCh38,555.0,T,0.62715,62.72,Pathogenic,Moderate
+210,185,1444891,TPP1,uncertain significance,11,6615489,T,C,NM_000391.4(TPP1):c.1219A>G (p.Ile407Val),GRCh38,407.0,V,0.62715,62.72,Pathogenic,Moderate
+211,186,1419526,TPP1,uncertain significance,11,6617666,C,T,NM_000391.4(TPP1):c.340G>A (p.Val114Met),GRCh38,114.0,M,0.62715,62.72,Pathogenic,Moderate
+212,195,1396469,TPP1,uncertain significance,11,6616841,G,A,NM_000391.4(TPP1):c.706C>T (p.His236Tyr),GRCh38,236.0,Y,0.62715,62.72,Pathogenic,Moderate
+213,199,1460825,TPP1,uncertain significance,11,6614562,G,C,NM_000391.4(TPP1):c.1676C>G (p.Thr559Ser),GRCh38,559.0,S,0.62715,62.72,Pathogenic,Moderate
+214,204,1382395,TPP1,uncertain significance,11,6614641,C,T,NM_000391.4(TPP1):c.1597G>A (p.Gly533Ser),GRCh38,533.0,S,0.62715,62.72,Pathogenic,Moderate
+215,218,1431069,TPP1,uncertain significance,11,6614646,A,G,NM_000391.4(TPP1):c.1592T>C (p.Val531Ala),GRCh38,531.0,A,0.62715,62.72,Pathogenic,Moderate
+216,261,2156472,TPP1,uncertain significance,11,6614647,C,T,NM_000391.4(TPP1):c.1591G>A (p.Val531Ile),GRCh38,531.0,I,0.62715,62.72,Pathogenic,Moderate
+217,336,3233743,TPP1,uncertain significance,11,6614972,C,G,NM_000391.4(TPP1):c.1445G>C (p.Gly482Ala),GRCh38,482.0,A,0.62715,62.72,Pathogenic,Moderate
+218,33,408910,TPP1,uncertain significance,11,6614921,G,A,NM_000391.4(TPP1):c.1496C>T (p.Pro499Leu),GRCh38,499.0,L,0.626143,62.61,Pathogenic,Moderate
+219,43,457943,TPP1,uncertain significance,11,6614921,G,C,NM_000391.4(TPP1):c.1496C>G (p.Pro499Arg),GRCh38,499.0,R,0.626143,62.61,Pathogenic,Moderate
+220,372,4189504,TPP1,uncertain significance,11,6617732,A,T,NM_000391.4(TPP1):c.274T>A (p.Ser92Thr),GRCh38,92.0,T,0.620046,62.0,Pathogenic,Moderate
+221,51,502454,TPP1,uncertain significance,11,6614922,G,C,NM_000391.4(TPP1):c.1495C>G (p.Pro499Ala),GRCh38,499.0,A,0.616253,61.63,Pathogenic,Moderate
+222,160,1051211,TPP1,uncertain significance,11,6614922,G,T,NM_000391.4(TPP1):c.1495C>A (p.Pro499Thr),GRCh38,499.0,T,0.616253,61.63,Pathogenic,Moderate
+223,166,1304837,TPP1,uncertain significance,11,6619205,T,C,NM_000391.4(TPP1):c.80A>G (p.Gln27Arg),GRCh38,27.0,R,0.612566,61.26,Pathogenic,Moderate
+224,243,1462292,TPP1,uncertain significance,11,6615278,T,C,NM_000391.4(TPP1):c.1318A>G (p.Ser440Gly),GRCh38,440.0,G,0.612076,61.21,Pathogenic,Moderate
+225,309,2096501,TPP1,uncertain significance,11,6616021,T,A,NM_000391.4(TPP1):c.1129A>T (p.Thr377Ser),GRCh38,377.0,S,0.612076,61.21,Pathogenic,Moderate
+226,248,1694049,TPP1,uncertain significance,11,6619217,G,C,NM_000391.4(TPP1):c.68C>G (p.Pro23Arg),GRCh38,23.0,R,0.610947,61.09,Pathogenic,Moderate
+227,328,2481066,TPP1,uncertain significance,11,6617633,T,C,NM_000391.4(TPP1):c.373A>G (p.Ser125Gly),GRCh38,125.0,G,0.608744,60.87,Pathogenic,Moderate
+228,170,1504079,TPP1,uncertain significance,11,6614967,T,G,NM_000391.4(TPP1):c.1450A>C (p.Ile484Leu),GRCh38,484.0,L,0.608599,60.86,Pathogenic,Moderate
+229,17,207552,TPP1,uncertain significance,11,6617130,G,C,NM_000391.4(TPP1):c.532C>G (p.Pro178Ala),GRCh38,178.0,A,0.604866,60.49,Pathogenic,Moderate
+230,213,1428692,TPP1,uncertain significance,11,6617130,G,A,NM_000391.4(TPP1):c.532C>T (p.Pro178Ser),GRCh38,178.0,S,0.604866,60.49,Pathogenic,Moderate
+231,5,207597,TPP1,uncertain significance,11,6614574,G,T,NM_000391.4(TPP1):c.1664C>A (p.Ala555Asp),GRCh38,555.0,D,0.601018,60.1,Pathogenic,Moderate
+232,161,1056179,TPP1,uncertain significance,11,6616422,A,G,NM_000391.4(TPP1):c.968T>C (p.Val323Ala),GRCh38,323.0,A,0.60096,60.1,Pathogenic,Moderate
+233,169,1314473,TPP1,uncertain significance,11,6615277,C,G,NM_000391.4(TPP1):c.1319G>C (p.Ser440Thr),GRCh38,440.0,T,0.60096,60.1,Pathogenic,Moderate
+234,203,1478821,TPP1,uncertain significance,11,6616345,C,G,NM_000391.4(TPP1):c.1045G>C (p.Ala349Pro),GRCh38,349.0,P,0.599997,60.0,Pathogenic,Moderate
+235,191,1515942,TPP1,uncertain significance,11,6617629,A,C,NM_000391.4(TPP1):c.377T>G (p.Ile126Ser),GRCh38,126.0,S,0.596192,59.62,Pathogenic,Moderate
+236,339,3393799,TPP1,uncertain significance,11,6616999,G,T,NM_000391.4(TPP1):c.663C>A (p.Ser221Arg),GRCh38,221.0,R,0.593739,59.37,Pathogenic,Moderate
+237,96,845200,TPP1,uncertain significance,11,6617334,G,A,NM_000391.4(TPP1):c.475C>T (p.Leu159Phe),GRCh38,159.0,F,0.588885,58.89,Pathogenic,Moderate
+238,177,1426773,TPP1,uncertain significance,11,6617683,G,C,NM_000391.4(TPP1):c.323C>G (p.Ala108Gly),GRCh38,108.0,G,0.588885,58.89,Pathogenic,Moderate
+239,220,1350089,TPP1,uncertain significance,11,6619217,G,A,NM_000391.4(TPP1):c.68C>T (p.Pro23Leu),GRCh38,23.0,L,0.588885,58.89,Pathogenic,Moderate
+240,267,2164395,TPP1,uncertain significance,11,6619217,G,T,NM_000391.4(TPP1):c.68C>A (p.Pro23Gln),GRCh38,23.0,Q,0.588885,58.89,Pathogenic,Moderate
+241,53,527735,TPP1,uncertain significance,11,6618878,G,C,NM_000391.4(TPP1):c.127C>G (p.Pro43Ala),GRCh38,43.0,A,0.588385,58.84,Pathogenic,Moderate
+242,92,848262,TPP1,uncertain significance,11,6616700,C,T,NM_000391.4(TPP1):c.847G>A (p.Ala283Thr),GRCh38,283.0,T,0.588385,58.84,Pathogenic,Moderate
+243,106,939944,TPP1,uncertain significance,11,6614569,G,T,NM_000391.4(TPP1):c.1669C>A (p.Leu557Met),GRCh38,557.0,M,0.588385,58.84,Pathogenic,Moderate
+244,127,990497,TPP1,uncertain significance,11,6614668,C,T,NM_000391.4(TPP1):c.1570G>A (p.Glu524Lys),GRCh38,524.0,K,0.588385,58.84,Pathogenic,Moderate
+245,259,2150070,TPP1,uncertain significance,11,6616465,T,C,NM_000391.4(TPP1):c.925A>G (p.Met309Val),GRCh38,309.0,V,0.588385,58.84,Pathogenic,Moderate
+246,369,4062365,TPP1,uncertain significance,11,6616054,A,G,NM_000391.4(TPP1):c.1096T>C (p.Trp366Arg),GRCh38,366.0,R,0.588385,58.84,Pathogenic,Moderate
+247,153,1047496,TPP1,uncertain significance,11,6616492,C,T,NM_000391.4(TPP1):c.898G>A (p.Gly300Arg),GRCh38,300.0,R,0.584988,58.5,Pathogenic,Moderate
+248,364,4062360,TPP1,uncertain significance,11,6614899,C,G,NM_000391.4(TPP1):c.1518G>C (p.Arg506Ser),GRCh38,506.0,S,0.584988,58.5,Pathogenic,Moderate
+249,340,3460511,TPP1,uncertain significance,11,6616664,G,T,NM_000391.4(TPP1):c.883C>A (p.Pro295Thr),GRCh38,295.0,T,0.581036,58.1,Pathogenic,Moderate
+250,366,4062362,TPP1,uncertain significance,11,6617334,G,T,NM_000391.4(TPP1):c.475C>A (p.Leu159Ile),GRCh38,159.0,I,0.581036,58.1,Pathogenic,Moderate
+251,75,662224,TPP1,uncertain significance,11,6616434,T,C,NM_000391.4(TPP1):c.956A>G (p.His319Arg),GRCh38,319.0,R,0.580554,58.06,Pathogenic,Moderate
+252,90,847286,TPP1,uncertain significance,11,6614656,C,T,NM_000391.4(TPP1):c.1582G>A (p.Asp528Asn),GRCh38,528.0,N,0.580554,58.06,Pathogenic,Moderate
+253,235,1516452,TPP1,uncertain significance,11,6616435,G,A,NM_000391.4(TPP1):c.955C>T (p.His319Tyr),GRCh38,319.0,Y,0.580554,58.06,Pathogenic,Moderate
+254,356,4062348,TPP1,uncertain significance,11,6617631,G,C,NM_000391.4(TPP1):c.375C>G (p.Ser125Arg),GRCh38,125.0,R,0.577139,57.71,Pathogenic,Moderate
+255,104,946567,TPP1,uncertain significance,11,6616387,C,T,NM_000391.4(TPP1):c.1003G>A (p.Ala335Thr),GRCh38,335.0,T,0.577119,57.71,Pathogenic,Moderate
+256,111,937066,TPP1,uncertain significance,11,6616786,T,C,NM_000391.4(TPP1):c.761A>G (p.Gln254Arg),GRCh38,254.0,R,0.577119,57.71,Pathogenic,Moderate
+257,148,1016543,TPP1,uncertain significance,11,6617765,T,C,NM_000391.4(TPP1):c.241A>G (p.Thr81Ala),GRCh38,81.0,A,0.577119,57.71,Pathogenic,Moderate
+258,154,1038577,TPP1,uncertain significance,11,6617389,G,T,NM_000391.4(TPP1):c.420C>A (p.His140Gln),GRCh38,140.0,Q,0.577119,57.71,Pathogenic,Moderate
+259,167,1306642,TPP1,uncertain significance,11,6618863,T,G,NM_000391.4(TPP1):c.142A>C (p.Ser48Arg),GRCh38,48.0,R,0.577119,57.71,Pathogenic,Moderate
+260,171,1448995,TPP1,uncertain significance,11,6618815,G,C,NM_000391.4(TPP1):c.190C>G (p.Leu64Val),GRCh38,64.0,V,0.577119,57.71,Pathogenic,Moderate
+261,232,1379311,TPP1,uncertain significance,11,6617360,A,G,NM_000391.4(TPP1):c.449T>C (p.Val150Ala),GRCh38,150.0,A,0.577119,57.71,Pathogenic,Moderate
+262,315,2126476,TPP1,uncertain significance,11,6617049,T,C,NM_000391.4(TPP1):c.613A>G (p.Ile205Val),GRCh38,205.0,V,0.577119,57.71,Pathogenic,Moderate
+263,37,426535,TPP1,uncertain significance,11,6616345,C,T,NM_000391.4(TPP1):c.1045G>A (p.Ala349Thr),GRCh38,349.0,T,0.56923,56.92,Pathogenic,Moderate
+264,245,1517024,TPP1,uncertain significance,11,6614947,C,G,NM_000391.4(TPP1):c.1470G>C (p.Glu490Asp),GRCh38,490.0,D,0.56923,56.92,Pathogenic,Moderate
+265,287,1969048,TPP1,uncertain significance,11,6616406,A,T,NM_000391.4(TPP1):c.984T>A (p.Asp328Glu),GRCh38,328.0,E,0.56923,56.92,Pathogenic,Moderate
+266,108,940047,TPP1,uncertain significance,11,6616666,C,T,NM_000391.4(TPP1):c.881G>A (p.Ser294Asn),GRCh38,294.0,N,0.561794,56.18,Pathogenic,Moderate
+267,45,457941,TPP1,uncertain significance,11,6614928,G,A,NM_000391.4(TPP1):c.1489C>T (p.Arg497Cys),GRCh38,497.0,C,0.432122,43.21,Non-Pathogenic,Low
+268,326,2437218,TPP1,uncertain significance,11,6615262,C,T,NM_000391.4(TPP1):c.1334G>A (p.Ser445Asn),GRCh38,445.0,N,0.432122,43.21,Non-Pathogenic,Low
+269,15,207584,TPP1,uncertain significance,11,6616500,C,T,NM_000391.4(TPP1):c.890G>A (p.Arg297Gln),GRCh38,297.0,Q,0.429147,42.91,Non-Pathogenic,Low
+270,47,457937,TPP1,uncertain significance,11,6615289,A,G,NM_000391.4(TPP1):c.1307T>C (p.Leu436Pro),GRCh38,436.0,P,0.416832,41.68,Non-Pathogenic,Low
+271,268,2171281,TPP1,uncertain significance,11,6615491,T,G,NM_000391.4(TPP1):c.1217A>C (p.Tyr406Ser),GRCh38,406.0,S,0.413855,41.39,Non-Pathogenic,Low
+272,83,658762,TPP1,uncertain significance,11,6618886,C,T,NM_000391.4(TPP1):c.119G>A (p.Arg40His),GRCh38,40.0,H,0.410461,41.05,Non-Pathogenic,Low
+273,194,1422518,TPP1,uncertain significance,11,6618872,C,T,NM_000391.4(TPP1):c.133G>A (p.Glu45Lys),GRCh38,45.0,K,0.406533,40.65,Non-Pathogenic,Low
+274,361,4062355,TPP1,uncertain significance,11,6617657,G,T,NM_000391.4(TPP1):c.349C>A (p.Gln117Lys),GRCh38,117.0,K,0.406533,40.65,Non-Pathogenic,Low
+275,247,1693391,TPP1,uncertain significance,11,6614650,C,T,NM_000391.4(TPP1):c.1588G>A (p.Glu530Lys),GRCh38,530.0,K,0.406263,40.63,Non-Pathogenic,Low
+276,89,862135,TPP1,uncertain significance,11,6614551,G,A,NM_000391.4(TPP1):c.1687C>T (p.Pro563Ser),GRCh38,563.0,S,0.405495,40.55,Non-Pathogenic,Low
+277,143,1002369,TPP1,uncertain significance,11,6619209,C,T,NM_000391.4(TPP1):c.76G>A (p.Asp26Asn),GRCh38,26.0,N,0.403158,40.32,Non-Pathogenic,Low
+278,158,1036351,TPP1,uncertain significance,11,6619203,G,A,NM_000391.4(TPP1):c.82C>T (p.Arg28Trp),GRCh38,28.0,W,0.403158,40.32,Non-Pathogenic,Low
+279,30,287701,TPP1,uncertain significance,11,6616997,T,C,NM_000391.4(TPP1):c.665A>G (p.Asn222Ser),GRCh38,222.0,S,0.398969,39.9,Non-Pathogenic,Low
+280,211,1374137,TPP1,uncertain significance,11,6618904,C,G,NM_000391.4(TPP1):c.101G>C (p.Gly34Ala),GRCh38,34.0,A,0.398969,39.9,Non-Pathogenic,Low
+281,317,2132383,TPP1,uncertain significance,11,6614886,G,A,NM_000391.4(TPP1):c.1531C>T (p.His511Tyr),GRCh38,511.0,Y,0.39843,39.84,Non-Pathogenic,Low
+282,231,1351593,TPP1,uncertain significance,11,6617042,T,G,NM_000391.4(TPP1):c.620A>C (p.Lys207Thr),GRCh38,207.0,T,0.396118,39.61,Non-Pathogenic,Low
+283,299,2023941,TPP1,uncertain significance,11,6614653,C,T,NM_000391.4(TPP1):c.1585G>A (p.Glu529Lys),GRCh38,529.0,K,0.396033,39.6,Non-Pathogenic,Low
+284,290,1993084,TPP1,uncertain significance,11,6617335,C,A,NM_000391.4(TPP1):c.474G>T (p.Gln158His),GRCh38,158.0,H,0.395404,39.54,Non-Pathogenic,Low
+285,34,419889,TPP1,uncertain significance,11,6616034,G,C,NM_000391.4(TPP1):c.1116C>G (p.His372Gln),GRCh38,372.0,Q,0.395076,39.51,Non-Pathogenic,Low
+286,238,1435921,TPP1,uncertain significance,11,6617378,C,T,NM_000391.4(TPP1):c.431G>A (p.Gly144Glu),GRCh38,144.0,E,0.391198,39.12,Non-Pathogenic,Low
+287,73,639975,TPP1,uncertain significance,11,6614680,G,A,NM_000391.4(TPP1):c.1558C>T (p.Arg520Cys),GRCh38,520.0,C,0.390976,39.1,Non-Pathogenic,Low
+288,114,941967,TPP1,uncertain significance,11,6618806,C,G,NM_000391.4(TPP1):c.199G>C (p.Ala67Pro),GRCh38,67.0,P,0.39029,39.03,Non-Pathogenic,Low
+289,9,207601,TPP1,uncertain significance,11,6615293,G,C,NM_000391.4(TPP1):c.1303C>G (p.His435Asp),GRCh38,435.0,D,0.388902,38.89,Non-Pathogenic,Low
+290,202,1507047,TPP1,uncertain significance,11,6617376,G,C,NM_000391.4(TPP1):c.433C>G (p.Pro145Ala),GRCh38,145.0,A,0.388902,38.89,Non-Pathogenic,Low
+291,282,1943106,TPP1,uncertain significance,11,6615293,G,T,NM_000391.4(TPP1):c.1303C>A (p.His435Asn),GRCh38,435.0,N,0.388902,38.89,Non-Pathogenic,Low
+292,283,1937234,TPP1,uncertain significance,11,6617626,C,A,NM_000391.4(TPP1):c.380G>T (p.Arg127Leu),GRCh38,127.0,L,0.388902,38.89,Non-Pathogenic,Low
+293,333,2814344,TPP1,uncertain significance,11,6617115,T,C,NM_000391.4(TPP1):c.547A>G (p.Arg183Gly),GRCh38,183.0,G,0.388902,38.89,Non-Pathogenic,Low
+294,32,408908,TPP1,uncertain significance,11,6615516,G,A,NM_000391.4(TPP1):c.1192C>T (p.Leu398Phe),GRCh38,398.0,F,0.388817,38.88,Non-Pathogenic,Low
+295,67,579475,TPP1,uncertain significance,11,6616997,T,G,NM_000391.4(TPP1):c.665A>C (p.Asn222Thr),GRCh38,222.0,T,0.388817,38.88,Non-Pathogenic,Low
+296,250,1708601,TPP1,uncertain significance,11,6619212,G,T,NM_000391.4(TPP1):c.73C>A (p.Pro25Thr),GRCh38,25.0,T,0.388817,38.88,Non-Pathogenic,Low
+297,294,2017716,TPP1,uncertain significance,11,6619211,G,A,NM_000391.4(TPP1):c.74C>T (p.Pro25Leu),GRCh38,25.0,L,0.388817,38.88,Non-Pathogenic,Low
+298,310,2098684,TPP1,uncertain significance,11,6618784,G,A,NM_000391.4(TPP1):c.221C>T (p.Pro74Leu),GRCh38,74.0,L,0.388817,38.88,Non-Pathogenic,Low
+299,355,4062346,TPP1,uncertain significance,11,6616044,G,A,NM_000391.4(TPP1):c.1106C>T (p.Ser369Phe),GRCh38,369.0,F,0.388817,38.88,Non-Pathogenic,Low
+300,374,4189506,TPP1,uncertain significance,11,6618784,G,T,NM_000391.4(TPP1):c.221C>A (p.Pro74His),GRCh38,74.0,H,0.388817,38.88,Non-Pathogenic,Low
+301,149,1036529,TPP1,uncertain significance,11,6614934,T,G,NM_000391.4(TPP1):c.1483A>C (p.Ser495Arg),GRCh38,495.0,R,0.388327,38.83,Non-Pathogenic,Low
+302,95,845828,TPP1,uncertain significance,11,6617120,G,T,NM_000391.4(TPP1):c.542C>A (p.Ser181Tyr),GRCh38,181.0,Y,0.381163,38.12,Non-Pathogenic,Low
+303,97,836182,TPP1,uncertain significance,11,6617693,C,A,NM_000391.4(TPP1):c.313G>T (p.Ala105Ser),GRCh38,105.0,S,0.381163,38.12,Non-Pathogenic,Low
+304,156,1040118,TPP1,uncertain significance,11,6618785,G,A,NM_000391.4(TPP1):c.220C>T (p.Pro74Ser),GRCh38,74.0,S,0.381163,38.12,Non-Pathogenic,Low
+305,180,1469971,TPP1,uncertain significance,11,6615295,G,A,NM_000391.4(TPP1):c.1301C>T (p.Pro434Leu),GRCh38,434.0,L,0.381163,38.12,Non-Pathogenic,Low
+306,373,4189505,TPP1,uncertain significance,11,6618785,G,T,NM_000391.4(TPP1):c.220C>A (p.Pro74Thr),GRCh38,74.0,T,0.381163,38.12,Non-Pathogenic,Low
+307,29,284359,TPP1,uncertain significance,11,6614680,G,T,NM_000391.4(TPP1):c.1558C>A (p.Arg520Ser),GRCh38,520.0,S,0.380899,38.09,Non-Pathogenic,Low
+308,77,661847,TPP1,uncertain significance,11,6616801,C,A,NM_000391.4(TPP1):c.746G>T (p.Gly249Val),GRCh38,249.0,V,0.38084,38.08,Non-Pathogenic,Low
+309,1,130611,TPP1,uncertain significance,11,6616814,G,A,NM_000391.4(TPP1):c.733C>T (p.Arg245Cys),GRCh38,245.0,C,0.379941,37.99,Non-Pathogenic,Low
+310,193,1369605,TPP1,uncertain significance,11,6617348,G,A,NM_000391.4(TPP1):c.461C>T (p.Pro154Leu),GRCh38,154.0,L,0.379753,37.98,Non-Pathogenic,Low
+311,295,2009314,TPP1,uncertain significance,11,6617747,C,T,NM_000391.4(TPP1):c.259G>A (p.Asp87Asn),GRCh38,87.0,N,0.377947,37.79,Non-Pathogenic,Low
+312,308,2096176,TPP1,uncertain significance,11,6614637,T,C,NM_000391.4(TPP1):c.1601A>G (p.Gln534Arg),GRCh38,534.0,R,0.375014,37.5,Non-Pathogenic,Low
+313,272,2199375,TPP1,uncertain significance,11,6615265,G,A,NM_000391.4(TPP1):c.1331C>T (p.Ala444Val),GRCh38,444.0,V,0.373649,37.36,Non-Pathogenic,Low
+314,236,1353319,TPP1,uncertain significance,11,6617716,T,C,NM_000391.4(TPP1):c.290A>G (p.His97Arg),GRCh38,97.0,R,0.370397,37.04,Non-Pathogenic,Low
+315,139,1008431,TPP1,uncertain significance,11,6618908,G,A,NM_000391.4(TPP1):c.97C>T (p.Pro33Ser),GRCh38,33.0,S,0.370294,37.03,Non-Pathogenic,Low
+316,157,1045979,TPP1,uncertain significance,11,6618908,G,T,NM_000391.4(TPP1):c.97C>A (p.Pro33Thr),GRCh38,33.0,T,0.370294,37.03,Non-Pathogenic,Low
+317,187,1363770,TPP1,uncertain significance,11,6617094,C,T,NM_000391.4(TPP1):c.568G>A (p.Val190Met),GRCh38,190.0,M,0.370294,37.03,Non-Pathogenic,Low
+318,331,2683134,TPP1,uncertain significance,11,6619199,C,T,NM_000391.4(TPP1):c.86G>A (p.Arg29Lys),GRCh38,29.0,K,0.369305,36.93,Non-Pathogenic,Low
+319,182,1401392,TPP1,uncertain significance,11,6614564,C,G,NM_000391.4(TPP1):c.1674G>C (p.Lys558Asn),GRCh38,558.0,N,0.36903,36.9,Non-Pathogenic,Low
+320,252,1748185,TPP1,uncertain significance,11,6617109,G,C,NM_000391.4(TPP1):c.553C>G (p.Arg185Gly),GRCh38,185.0,G,0.367948,36.79,Non-Pathogenic,Low
+321,49,457947,TPP1,uncertain significance,11,6619207,G,T,NM_000391.4(TPP1):c.78C>A (p.Asp26Glu),GRCh38,26.0,E,0.366594,36.66,Non-Pathogenic,Low
+322,264,2150607,TPP1,uncertain significance,11,6614557,G,A,NM_000391.4(TPP1):c.1681C>T (p.Leu561Phe),GRCh38,561.0,F,0.366594,36.66,Non-Pathogenic,Low
+323,94,842671,TPP1,uncertain significance,11,6617099,G,A,NM_000391.4(TPP1):c.563C>T (p.Pro188Leu),GRCh38,188.0,L,0.366194,36.62,Non-Pathogenic,Low
+324,8,207592,TPP1,uncertain significance,11,6615265,G,T,NM_000391.4(TPP1):c.1331C>A (p.Ala444Asp),GRCh38,444.0,D,0.366115,36.61,Non-Pathogenic,Low
+325,262,2161711,TPP1,uncertain significance,11,6618817,T,A,NM_000391.4(TPP1):c.188A>T (p.Glu63Val),GRCh38,63.0,V,0.365388,36.54,Non-Pathogenic,Low
+326,93,854120,TPP1,uncertain significance,11,6616784,C,G,NM_000391.4(TPP1):c.763G>C (p.Ala255Pro),GRCh38,255.0,P,0.36523,36.52,Non-Pathogenic,Low
+327,64,565552,TPP1,uncertain significance,11,6616775,C,A,NM_000391.4(TPP1):c.772G>T (p.Ala258Ser),GRCh38,258.0,S,0.362517,36.25,Non-Pathogenic,Low
+328,260,2154928,TPP1,uncertain significance,11,6616775,C,G,NM_000391.4(TPP1):c.772G>C (p.Ala258Pro),GRCh38,258.0,P,0.362517,36.25,Non-Pathogenic,Low
+329,112,939167,TPP1,uncertain significance,11,6617127,T,A,NM_000391.4(TPP1):c.535A>T (p.Thr179Ser),GRCh38,179.0,S,0.35912,35.91,Non-Pathogenic,Low
+330,192,1422837,TPP1,uncertain significance,11,6614557,G,C,NM_000391.4(TPP1):c.1681C>G (p.Leu561Val),GRCh38,561.0,V,0.35912,35.91,Non-Pathogenic,Low
+331,214,1428812,TPP1,uncertain significance,11,6617127,T,C,NM_000391.4(TPP1):c.535A>G (p.Thr179Ala),GRCh38,179.0,A,0.35912,35.91,Non-Pathogenic,Low
+332,135,1005567,TPP1,uncertain significance,11,6616745,G,A,NM_000391.4(TPP1):c.802C>T (p.Arg268Trp),GRCh38,268.0,W,0.358848,35.88,Non-Pathogenic,Low
+333,367,4062363,TPP1,uncertain significance,11,6616783,G,C,NM_000391.4(TPP1):c.764C>G (p.Ala255Gly),GRCh38,255.0,G,0.358664,35.87,Non-Pathogenic,Low
+334,16,207580,TPP1,uncertain significance,11,6616750,C,T,NM_000391.4(TPP1):c.797G>A (p.Arg266Gln),GRCh38,266.0,Q,0.355507,35.55,Non-Pathogenic,Low
+335,24,207563,TPP1,uncertain significance,11,6618867,C,A,NM_000391.4(TPP1):c.138G>T (p.Glu46Asp),GRCh38,46.0,D,0.355429,35.54,Non-Pathogenic,Low
+336,147,1017481,TPP1,uncertain significance,11,6617114,C,T,NM_000391.4(TPP1):c.548G>A (p.Arg183Lys),GRCh38,183.0,K,0.35233,35.23,Non-Pathogenic,Low
+337,113,936301,TPP1,uncertain significance,11,6617363,T,C,NM_000391.4(TPP1):c.446A>G (p.His149Arg),GRCh38,149.0,R,0.349869,34.99,Non-Pathogenic,Low
+338,225,1404406,TPP1,uncertain significance,11,6617717,G,A,NM_000391.4(TPP1):c.289C>T (p.His97Tyr),GRCh38,97.0,Y,0.349674,34.97,Non-Pathogenic,Low
+339,38,426392,TPP1,uncertain significance,11,6616443,G,T,NM_000391.4(TPP1):c.947C>A (p.Ala316Asp),GRCh38,316.0,D,0.349205,34.92,Non-Pathogenic,Low
+340,255,1809945,TPP1,uncertain significance,11,6616774,G,A,NM_000391.4(TPP1):c.773C>T (p.Ala258Val),GRCh38,258.0,V,0.349205,34.92,Non-Pathogenic,Low
+341,381,4840048,TPP1,uncertain significance,11,6616774,G,T,NM_000391.4(TPP1):c.773C>A (p.Ala258Asp),GRCh38,258.0,D,0.349205,34.92,Non-Pathogenic,Low
+342,23,207566,TPP1,uncertain significance,11,6618805,G,C,NM_000391.4(TPP1):c.200C>G (p.Ala67Gly),GRCh38,67.0,G,0.348526,34.85,Non-Pathogenic,Low
+343,26,207559,TPP1,uncertain significance,11,6619220,C,T,NM_000391.4(TPP1):c.65G>A (p.Ser22Asn),GRCh38,22.0,N,0.348526,34.85,Non-Pathogenic,Low
+344,44,457942,TPP1,uncertain significance,11,6614927,C,T,NM_000391.4(TPP1):c.1490G>A (p.Arg497His),GRCh38,497.0,H,0.348077,34.81,Non-Pathogenic,Low
+345,354,4062344,TPP1,uncertain significance,11,6614927,C,A,NM_000391.4(TPP1):c.1490G>T (p.Arg497Leu),GRCh38,497.0,L,0.348077,34.81,Non-Pathogenic,Low
+346,12,207588,TPP1,uncertain significance,11,6615527,T,C,NM_000391.4(TPP1):c.1181A>G (p.Gln394Arg),GRCh38,394.0,R,0.342358,34.24,Non-Pathogenic,Low
+347,117,956723,TPP1,uncertain significance,11,6615527,T,A,NM_000391.4(TPP1):c.1181A>T (p.Gln394Leu),GRCh38,394.0,L,0.342358,34.24,Non-Pathogenic,Low
+348,165,1163923,TPP1,uncertain significance,11,6617106,G,A,NM_000391.4(TPP1):c.556C>T (p.Pro186Ser),GRCh38,186.0,S,0.342358,34.24,Non-Pathogenic,Low
+349,103,952293,TPP1,uncertain significance,11,6616051,A,G,NM_000391.4(TPP1):c.1099T>C (p.Ser367Pro),GRCh38,367.0,P,0.341814,34.18,Non-Pathogenic,Low
+350,21,207572,TPP1,uncertain significance,11,6617336,T,G,NM_000391.4(TPP1):c.473A>C (p.Gln158Pro),GRCh38,158.0,P,0.341241,34.12,Non-Pathogenic,Low
+351,226,1405584,TPP1,uncertain significance,11,6617316,G,A,NM_000391.4(TPP1):c.493C>T (p.Pro165Ser),GRCh38,165.0,S,0.341241,34.12,Non-Pathogenic,Low
+352,134,999039,TPP1,uncertain significance,11,6616744,C,T,NM_000391.4(TPP1):c.803G>A (p.Arg268Gln),GRCh38,268.0,Q,0.340956,34.1,Non-Pathogenic,Low
+353,300,2020202,TPP1,uncertain significance,11,6617075,A,C,NM_000391.4(TPP1):c.587T>G (p.Leu196Arg),GRCh38,196.0,R,0.335038,33.5,Non-Pathogenic,Low
+354,351,4062340,TPP1,uncertain significance,11,6617075,A,G,NM_000391.4(TPP1):c.587T>C (p.Leu196Pro),GRCh38,196.0,P,0.335038,33.5,Non-Pathogenic,Low
+355,362,4062358,TPP1,uncertain significance,11,6614552,G,T,NM_000391.4(TPP1):c.1686C>A (p.Asn562Lys),GRCh38,562.0,K,0.335038,33.5,Non-Pathogenic,Low
+356,380,4797691,TPP1,uncertain significance,11,6614553,T,C,NM_000391.4(TPP1):c.1685A>G (p.Asn562Ser),GRCh38,562.0,S,0.335038,33.5,Non-Pathogenic,Low
+357,84,653128,TPP1,uncertain significance,11,6619196,G,T,NM_000391.4(TPP1):c.89C>A (p.Thr30Lys),GRCh38,30.0,K,0.332003,33.2,Non-Pathogenic,Low
+358,141,1001700,TPP1,uncertain significance,11,6619197,T,C,NM_000391.4(TPP1):c.88A>G (p.Thr30Ala),GRCh38,30.0,A,0.332003,33.2,Non-Pathogenic,Low
+359,293,1999211,TPP1,uncertain significance,11,6619196,G,A,NM_000391.4(TPP1):c.89C>T (p.Thr30Met),GRCh38,30.0,M,0.332003,33.2,Non-Pathogenic,Low
+360,365,4062361,TPP1,uncertain significance,11,6617344,A,T,NM_000391.4(TPP1):c.465T>A (p.His155Gln),GRCh38,155.0,Q,0.332003,33.2,Non-Pathogenic,Low
+361,205,1424325,TPP1,uncertain significance,11,6615317,T,A,NM_000391.4(TPP1):c.1279A>T (p.Thr427Ser),GRCh38,427.0,S,0.331564,33.16,Non-Pathogenic,Low
+362,72,655186,TPP1,uncertain significance,11,6614679,C,T,NM_000391.4(TPP1):c.1559G>A (p.Arg520His),GRCh38,520.0,H,0.331467,33.15,Non-Pathogenic,Low
+363,319,2131834,TPP1,uncertain significance,11,6616744,C,G,NM_000391.4(TPP1):c.803G>C (p.Arg268Pro),GRCh38,268.0,P,0.331467,33.15,Non-Pathogenic,Low
+364,79,653229,TPP1,uncertain significance,11,6617090,G,A,NM_000391.4(TPP1):c.572C>T (p.Thr191Ile),GRCh38,191.0,I,0.324891,32.49,Non-Pathogenic,Low
+365,98,850961,TPP1,uncertain significance,11,6617757,C,A,NM_000391.4(TPP1):c.249G>T (p.Glu83Asp),GRCh38,83.0,D,0.324891,32.49,Non-Pathogenic,Low
+366,183,1387021,TPP1,uncertain significance,11,6617706,T,G,NM_000391.4(TPP1):c.300A>C (p.Gln100His),GRCh38,100.0,H,0.324891,32.49,Non-Pathogenic,Low
+367,284,1953067,TPP1,uncertain significance,11,6617373,T,A,NM_000391.4(TPP1):c.436A>T (p.Thr146Ser),GRCh38,146.0,S,0.324891,32.49,Non-Pathogenic,Low
+368,70,590066,TPP1,uncertain significance,11,6615296,G,A,NM_000391.4(TPP1):c.1300C>T (p.Pro434Ser),GRCh38,434.0,S,0.324794,32.48,Non-Pathogenic,Low
+369,297,2016273,TPP1,uncertain significance,11,6617121,A,T,NM_000391.4(TPP1):c.541T>A (p.Ser181Thr),GRCh38,181.0,T,0.324794,32.48,Non-Pathogenic,Low
+370,325,2437217,TPP1,uncertain significance,11,6617117,A,G,NM_000391.4(TPP1):c.545T>C (p.Leu182Pro),GRCh38,182.0,P,0.324794,32.48,Non-Pathogenic,Low
+371,358,4062352,TPP1,uncertain significance,11,6617676,C,G,NM_000391.4(TPP1):c.330G>C (p.Lys110Asn),GRCh38,110.0,N,0.324794,32.48,Non-Pathogenic,Low
+372,65,568573,TPP1,uncertain significance,11,6616813,C,T,NM_000391.4(TPP1):c.734G>A (p.Arg245His),GRCh38,245.0,H,0.324361,32.44,Non-Pathogenic,Low
+373,39,448691,TPP1,uncertain significance,11,6617082,C,T,NM_000391.4(TPP1):c.580G>A (p.Val194Ile),GRCh38,194.0,I,0.317763,31.78,Non-Pathogenic,Low
+374,390,556332,TPP1,uncertain significance,11,6616342,GAGCGGC,G,NM_000391.4(TPP1):c.1042_1047del (p.Ala348_Ala349del),GRCh38,,,0.279109,27.91,Non-Pathogenic,Low
+375,391,552911,TPP1,uncertain significance,11,6617298,T,TA,NM_000391.4(TPP1):c.508+2dup,GRCh38,,,0.279109,27.91,Non-Pathogenic,Low
+376,393,659259,TPP1,uncertain significance,11,6614689,AG,A,NM_000391.4(TPP1):c.1552-4del,GRCh38,,,0.279109,27.91,Non-Pathogenic,Low
+377,394,1016568,TPP1,uncertain significance,11,6616655,TA,T,NM_000391.4(TPP1):c.886+5del,GRCh38,,,0.279109,27.91,Non-Pathogenic,Low
+378,395,1473921,TPP1,uncertain significance,11,6619186,GTCAAC,G,NM_000391.4(TPP1):c.89+5_89+9del,GRCh38,,,0.279109,27.91,Non-Pathogenic,Low
+379,101,859643,TPP1,uncertain significance,11,6619259,C,A,NM_000391.4(TPP1):c.26G>T (p.Gly9Val),GRCh38,9.0,V,0.208392,20.84,Non-Pathogenic,Low
+380,377,4633466,TPP1,uncertain significance,11,6619229,C,T,NM_000391.4(TPP1):c.56G>A (p.Cys19Tyr),GRCh38,19.0,Y,0.208392,20.84,Non-Pathogenic,Low
+381,302,2025175,TPP1,uncertain significance,11,6619257,G,T,NM_000391.4(TPP1):c.28C>A (p.Leu10Ile),GRCh38,10.0,I,0.203109,20.31,Non-Pathogenic,Low
+382,303,2054328,TPP1,uncertain significance,11,6619257,G,C,NM_000391.4(TPP1):c.28C>G (p.Leu10Val),GRCh38,10.0,V,0.203109,20.31,Non-Pathogenic,Low
+383,320,2129672,TPP1,uncertain significance,11,6619257,G,A,NM_000391.4(TPP1):c.28C>T (p.Leu10Phe),GRCh38,10.0,F,0.203109,20.31,Non-Pathogenic,Low
+384,27,207598,TPP1,uncertain significance,11,6619248,G,A,NM_000391.4(TPP1):c.37C>T (p.Leu13Phe),GRCh38,13.0,F,0.201464,20.15,Non-Pathogenic,Low
+385,130,990504,TPP1,uncertain significance,11,6619250,G,A,NM_000391.4(TPP1):c.35C>T (p.Ala12Val),GRCh38,12.0,V,0.201464,20.15,Non-Pathogenic,Low
+386,301,2025030,TPP1,uncertain significance,11,6619248,G,C,NM_000391.4(TPP1):c.37C>G (p.Leu13Val),GRCh38,13.0,V,0.201464,20.15,Non-Pathogenic,Low
+387,85,642082,TPP1,uncertain significance,11,6619384,C,G,NM_000391.4(TPP1):c.17G>C (p.Cys6Ser),GRCh38,6.0,S,0.196313,19.63,Non-Pathogenic,Low
+388,237,1380907,TPP1,uncertain significance,11,6619396,C,T,NM_000391.4(TPP1):c.5G>A (p.Gly2Glu),GRCh38,2.0,E,0.195395,19.54,Non-Pathogenic,Low
+389,100,844878,TPP1,uncertain significance,11,6619232,T,A,NM_000391.4(TPP1):c.53A>T (p.Lys18Ile),GRCh38,18.0,I,0.190376,19.04,Non-Pathogenic,Low
+390,368,4062364,TPP1,uncertain significance,11,6619233,T,G,NM_000391.4(TPP1):c.52A>C (p.Lys18Gln),GRCh38,18.0,Q,0.190363,19.04,Non-Pathogenic,Low
+391,144,1005840,TPP1,uncertain significance,11,6619397,C,G,NM_000391.4(TPP1):c.4G>C (p.Gly2Arg),GRCh38,2.0,R,0.185443,18.54,Non-Pathogenic,Low
+392,188,1418859,TPP1,uncertain significance,11,6619388,C,A,NM_000391.4(TPP1):c.13G>T (p.Ala5Ser),GRCh38,5.0,S,0.185443,18.54,Non-Pathogenic,Low
+393,269,2174722,TPP1,uncertain significance,11,6619388,C,T,NM_000391.4(TPP1):c.13G>A (p.Ala5Thr),GRCh38,5.0,T,0.185443,18.54,Non-Pathogenic,Low
+394,396,2136997,TPP1,uncertain significance,11,6617431,GGAGGTCAGAGAACA,G,NM_000391.4(TPP1):c.381-17_381-4del,GRCh38,,,0.141168,14.12,Non-Pathogenic,Low
+395,389,305502,TPP1,uncertain significance,11,6614231,CA,C,NM_000391.4(TPP1):c.*314del,GRCh38,,,0.137606,13.76,Non-Pathogenic,Low
+396,392,558853,TPP1,uncertain significance,11,6616508,ATTTT,A,NM_000391.4(TPP1):c.887-9_887-6del,GRCh38,,,0.137606,13.76,Non-Pathogenic,Low

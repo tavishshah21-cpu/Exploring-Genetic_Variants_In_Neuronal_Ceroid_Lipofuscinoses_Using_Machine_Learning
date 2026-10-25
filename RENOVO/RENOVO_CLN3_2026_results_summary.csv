@@ -1,0 +1,2 @@
+Gene,Algorithm,Training_Year,Training_Rows,Pathogenic_Rows,Benign_Rows,Biological_Features,Final_Feature_Count,Mean_Fold_ROC_AUC,Combined_OOF_ROC_AUC,OOF_F1,Threshold,Threshold_Source
+CLN3,RENOVO XGBoost,2026,469,167,302,26,52,0.9971286636860407,0.996629258040211,0.9695121951219512,0.6159903407096863,2026 OOF predictions

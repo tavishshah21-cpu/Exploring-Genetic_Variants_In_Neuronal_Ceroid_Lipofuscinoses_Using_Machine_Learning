@@ -1,0 +1,15 @@
+CLN2 RENOVO — 2026 Classification Report
+
+              precision    recall  f1-score   support
+
+      Benign       0.93      0.52      0.67        25
+  Pathogenic       0.94      0.99      0.96       175
+
+    accuracy                           0.94       200
+   macro avg       0.93      0.76      0.82       200
+weighted avg       0.93      0.94      0.93       200
+
+Accuracy: 0.935000
+ROC-AUC: 0.987886
+PR-AUC: 0.998137
+Threshold: 0.163511

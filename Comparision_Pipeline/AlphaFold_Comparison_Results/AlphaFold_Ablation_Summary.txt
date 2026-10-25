@@ -1,0 +1,36 @@
+CLN3 ALPHAFOLD ABLATION STUDY
+==============================
+
+Temporal validation:
+Training = ClinVar 2025
+Testing  = ClinVar 2026
+
+WITHOUT ALPHAFOLD
+-----------------
+accuracy: 0.971831
+roc_auc: 0.996714
+pr_auc: 0.997729
+precision: 0.977528
+recall: 0.977528
+f1: 0.977528
+cv_mean_roc_auc: 0.949267
+
+WITH ALPHAFOLD
+--------------
+accuracy: 0.992958
+roc_auc: 1.000000
+pr_auc: 1.000000
+precision: 0.988889
+recall: 1.000000
+f1: 0.994413
+cv_mean_roc_auc: 0.960668
+
+IMPROVEMENT
+-----------
+accuracy: 0.021127 (2.17%)
+roc_auc: 0.003286 (0.33%)
+pr_auc: 0.002271 (0.23%)
+precision: 0.011361 (1.16%)
+recall: 0.022472 (2.30%)
+f1: 0.016885 (1.73%)
+cv_mean_roc_auc: 0.011401 (1.20%)

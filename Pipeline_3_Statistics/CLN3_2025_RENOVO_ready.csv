@@ -1,0 +1,692 @@
+VariationID,GeneSymbol,Type,Name,ReviewStatus,Chromosome,Start,ReferenceAllele,AlternateAllele,label
+3552,CLN3,Deletion,NM_001042432.2(CLN3):c.461-280_677+382del,"criteria provided, multiple submitters, no conflicts",16,28497286,na,na,1
+3553,CLN3,Deletion,NG_008654.2:g.(13298_14630)_(15199_19425)del,no assertion criteria provided,na,-1,na,na,1
+3554,CLN3,Deletion,NG_008654.2:g.(9848_10812)_(19800_19939)del,no assertion criteria provided,na,-1,na,na,1
+3556,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.883G>A (p.Glu295Lys),"criteria provided, multiple submitters, no conflicts",16,28493821,na,na,1
+56245,CLN3,Deletion,NM_001042432.2(CLN3):c.1048del (p.Leu350fs),"criteria provided, single submitter",16,28493434,na,na,1
+56246,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1054C>T (p.Gln352Ter),"criteria provided, multiple submitters, no conflicts",16,28493428,na,na,1
+56248,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056G>C (p.Gln352His),no assertion criteria provided,16,28493426,na,na,1
+56249,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.105G>A (p.Trp35Ter),"criteria provided, multiple submitters, no conflicts",16,28502823,na,na,1
+56254,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-1G>A,no assertion criteria provided,16,28500708,na,na,1
+56255,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1268C>A (p.Ser423Ter),"criteria provided, multiple submitters, no conflicts",16,28488886,na,na,1
+56256,CLN3,Deletion,NM_001042432.2(CLN3):c.1272del (p.Leu425fs),no assertion criteria provided,16,28488882,na,na,1
+56257,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1A>C (p.Met1Leu),"criteria provided, single submitter",16,28503080,na,na,1
+56259,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+2T>G,no assertion criteria provided,16,28500609,na,na,1
+56263,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.302T>C (p.Leu101Pro),no assertion criteria provided,16,28499055,na,na,1
+56266,CLN3,Duplication,NM_001042432.2(CLN3):c.378_379dup (p.Arg127fs),no assertion criteria provided,16,28498857,na,na,1
+56267,CLN3,Deletion,NM_001042432.2(CLN3):c.379del (p.Arg127fs),"criteria provided, single submitter",16,28498858,na,na,1
+56269,CLN3,Deletion,NM_001042432.2(CLN3):c.424del (p.Val142fs),"criteria provided, multiple submitters, no conflicts",16,28498813,na,na,1
+56270,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-13G>C,no assertion criteria provided,16,28497984,na,na,1
+56271,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-1G>A,"criteria provided, single submitter",16,28497972,na,na,1
+56272,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-1G>C,no assertion criteria provided,16,28497972,na,na,1
+56273,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.472G>C (p.Ala158Pro),no assertion criteria provided,16,28497960,na,na,1
+56274,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.482C>G (p.Ser161Ter),no assertion criteria provided,16,28497950,na,na,1
+56275,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.485C>G (p.Ser162Ter),"criteria provided, single submitter",16,28497947,na,na,1
+56276,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.49G>T (p.Glu17Ter),no assertion criteria provided,16,28502879,na,na,1
+56278,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.533+1G>A,"criteria provided, single submitter",16,28497898,na,na,1
+56281,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.560G>C (p.Gly187Ala),no assertion criteria provided,16,28497785,na,na,1
+56283,CLN3,Deletion,NM_001042432.2(CLN3):c.569del (p.Gly190fs),no assertion criteria provided,16,28497776,na,na,1
+56285,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.582G>T (p.Leu194=),"criteria provided, multiple submitters, no conflicts",16,28497763,na,na,0
+56286,CLN3,Duplication,NM_001042432.2(CLN3):c.586dup (p.Ala196fs),no assertion criteria provided,16,28497758,na,na,1
+56287,CLN3,Duplication,NM_001042432.2(CLN3):c.622dup (p.Ser208fs),"criteria provided, multiple submitters, no conflicts",16,28497722,na,na,1
+56288,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.631C>T (p.Gln211Ter),"criteria provided, multiple submitters, no conflicts",16,28497714,na,na,1
+56291,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+5G>A,no assertion criteria provided,16,28493793,na,na,1
+56292,CLN3,Duplication,NM_001042432.2(CLN3):c.944dup (p.His315fs),"criteria provided, multiple submitters, no conflicts",16,28493665,na,na,1
+56294,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-1G>T,no assertion criteria provided,16,28493520,na,na,1
+56295,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.979C>T (p.Gln327Ter),no assertion criteria provided,16,28493503,na,na,1
+56296,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.988G>T (p.Val330Phe),"criteria provided, multiple submitters, no conflicts",16,28493494,na,na,1
+100719,CLN3,Insertion,NM_001042432.2(CLN3):c.371_372insT (p.Ser125fs),no assertion criteria provided,16,28498985,na,na,1
+136783,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.45G>A (p.Glu15=),"criteria provided, multiple submitters, no conflicts",16,28503036,na,na,0
+136790,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.771G>A (p.Glu257=),"criteria provided, multiple submitters, no conflicts",16,28495346,na,na,0
+136791,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+16C>A,"criteria provided, multiple submitters, no conflicts",16,28495311,na,na,0
+183669,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.494G>A (p.Gly165Glu),no assertion criteria provided,16,28497938,na,na,1
+205084,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1022G>A (p.Arg341His),"criteria provided, multiple submitters, no conflicts",16,28493460,na,na,0
+205087,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-13T>A,"criteria provided, multiple submitters, no conflicts",16,28499075,na,na,0
+205082,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-33C>A,"criteria provided, single submitter",16,28503113,na,na,0
+205091,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-76-4G>T,"criteria provided, single submitter",16,28503160,na,na,0
+205090,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-76-14G>A,"criteria provided, single submitter",16,28503170,na,na,0
+253417,CLN3,copy number loss,GRCh37/hg19 16p11.2(chr16:28497795-28498182)x1,"criteria provided, single submitter",16,28497795,na,na,1
+253522,CLN3,copy number loss,GRCh37/hg19 16p11.2(chr16:28497795-28498122)x1,"criteria provided, single submitter",16,28497795,na,na,1
+280317,CLN3,Deletion,NM_001042432.2(CLN3):c.816_817del (p.Glu273fs),"criteria provided, multiple submitters, no conflicts",16,28493967,na,na,1
+285870,CLN3,Deletion,NM_001042432.2(CLN3):c.17del (p.Gly6fs),"criteria provided, single submitter",16,28503064,na,na,1
+318711,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.*155A>C,"criteria provided, multiple submitters, no conflicts",16,28488682,na,na,0
+370667,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-1G>A,"criteria provided, multiple submitters, no conflicts",16,28493520,na,na,1
+370144,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+1G>A,"criteria provided, single submitter",16,28493647,na,na,1
+371538,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-1G>A,"criteria provided, single submitter",16,28493994,na,na,1
+370233,CLN3,Duplication,NM_001042432.2(CLN3):c.683dup (p.Leu230fs),"criteria provided, single submitter",16,28495433,na,na,1
+371459,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+1G>T,"criteria provided, multiple submitters, no conflicts",16,28497667,na,na,1
+371364,CLN3,Microsatellite,NM_001042432.2(CLN3):c.281_282del (p.Ser94fs),"criteria provided, single submitter",16,28499924,na,na,1
+370243,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+1G>A,"criteria provided, multiple submitters, no conflicts",16,28503034,na,na,1
+371317,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.2T>C (p.Met1Thr),"criteria provided, multiple submitters, no conflicts",16,28503079,na,na,1
+389319,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1213C>A (p.Arg405=),"criteria provided, single submitter",16,28488941,na,na,0
+377687,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1135C>T (p.Leu379=),"criteria provided, multiple submitters, no conflicts",16,28489120,na,na,0
+381985,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-16C>A,"criteria provided, multiple submitters, no conflicts",16,28493535,na,na,0
+386233,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.207G>A (p.Ser69=),"criteria provided, multiple submitters, no conflicts",16,28500626,na,na,0
+377684,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.180C>T (p.His60=),"criteria provided, multiple submitters, no conflicts",16,28500653,na,na,0
+377688,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+13C>A,"criteria provided, multiple submitters, no conflicts",16,28489045,na,na,0
+380316,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1167C>T (p.Tyr389=),"criteria provided, multiple submitters, no conflicts",16,28489088,na,na,0
+377686,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-11C>T,"criteria provided, multiple submitters, no conflicts",16,28489209,na,na,0
+378942,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+8A>C,"criteria provided, single submitter",16,28493418,na,na,0
+389056,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.777G>A (p.Pro259=),"criteria provided, multiple submitters, no conflicts",16,28495340,na,na,0
+393035,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+19G>A,"criteria provided, multiple submitters, no conflicts",16,28497649,na,na,0
+389859,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.533+18G>A,"criteria provided, multiple submitters, no conflicts",16,28497881,na,na,0
+377685,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.243G>A (p.Pro81=),"criteria provided, multiple submitters, no conflicts",16,28499963,na,na,0
+388427,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-17G>A,"criteria provided, multiple submitters, no conflicts",16,28488973,na,na,0
+382666,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1150C>T (p.Leu384=),"criteria provided, multiple submitters, no conflicts",16,28489105,na,na,0
+378915,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.882C>T (p.Ala294=),"criteria provided, multiple submitters, no conflicts",16,28493822,na,na,0
+392521,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.861C>T (p.Pro287=),"criteria provided, multiple submitters, no conflicts",16,28493843,na,na,0
+389423,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-6C>T,"criteria provided, single submitter",16,28493999,na,na,0
+384266,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-91C>G,"criteria provided, single submitter",16,28503355,na,na,0
+415537,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.987C>T (p.Gly329=),"criteria provided, multiple submitters, no conflicts",16,28493495,na,na,0
+415538,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1191C>T (p.Ala397=),"criteria provided, single submitter",16,28489064,na,na,0
+420902,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1004C>A (p.Ser335Tyr),"criteria provided, single submitter",16,28493478,na,na,1
+420007,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.784A>T (p.Lys262Ter),"criteria provided, multiple submitters, no conflicts",16,28495333,na,na,1
+423576,CLN3,Deletion,NM_001042432.2(CLN3):c.750del (p.Gln251fs),"criteria provided, single submitter",16,28495367,na,na,1
+421235,CLN3,Microsatellite,NM_001042432.2(CLN3):c.222+9CT[2],"criteria provided, multiple submitters, no conflicts",16,28500597,na,na,0
+438235,CLN3,Deletion,NM_001042432.2(CLN3):c.461-279_677+384del,"criteria provided, multiple submitters, no conflicts",16,28497284,na,na,1
+457935,CLN3,Deletion,NC_000016.10:g.(?_28486327)_(28486670_?)del,"criteria provided, single submitter",16,28497648,na,na,1
+457954,CLN3,Duplication,NM_001042432.2(CLN3):c.569dup (p.Ala191fs),"criteria provided, multiple submitters, no conflicts",16,28497775,na,na,1
+457956,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+7G>A,"criteria provided, single submitter",16,28493641,na,na,0
+457953,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.447G>T (p.Gly149=),"criteria provided, multiple submitters, no conflicts",16,28498790,na,na,0
+457952,CLN3,Duplication,NM_001042432.2(CLN3):c.375-19_375-4dup,"criteria provided, multiple submitters, no conflicts",16,28498865,na,na,0
+457950,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-4C>A,"criteria provided, single submitter",16,28500711,na,na,0
+515236,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-14C>G,"criteria provided, multiple submitters, no conflicts",16,28488970,na,na,0
+515026,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.837+12G>A,"criteria provided, multiple submitters, no conflicts",16,28493935,na,na,0
+510041,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.304C>T (p.Leu102=),"criteria provided, multiple submitters, no conflicts",16,28499053,na,na,0
+506675,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-4C>T,"criteria provided, multiple submitters, no conflicts",16,28502885,na,na,0
+516351,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-90T>C,"criteria provided, single submitter",16,28503354,na,na,0
+511038,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.615C>T (p.Ala205=),"criteria provided, multiple submitters, no conflicts",16,28497730,na,na,0
+511423,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.534-18C>T,"criteria provided, single submitter",16,28497829,na,na,0
+509384,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.870A>G (p.Val290=),"criteria provided, multiple submitters, no conflicts",16,28493834,na,na,0
+509647,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.309G>A (p.Ala103=),"criteria provided, multiple submitters, no conflicts",16,28499048,na,na,0
+512970,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-17C>G,"criteria provided, multiple submitters, no conflicts",16,28499079,na,na,0
+508909,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.288T>A (p.Ser96=),"criteria provided, multiple submitters, no conflicts",16,28499918,na,na,0
+507426,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.33T>C (p.Phe11=),"criteria provided, multiple submitters, no conflicts",16,28503048,na,na,0
+512898,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-17G>A,"criteria provided, single submitter",16,28503097,na,na,0
+515137,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-77+12A>C,"criteria provided, single submitter",16,28503329,na,na,0
+527766,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.420C>G (p.Val140=),"criteria provided, single submitter",16,28498817,na,na,0
+557749,CLN3,Duplication,NM_001042432.2(CLN3):c.963-63_963-44dup,"criteria provided, single submitter",16,28493562,na,na,0
+551790,CLN3,Deletion,NM_001042432.2(CLN3):c.125+1del,"criteria provided, single submitter",16,28502802,na,na,1
+550088,CLN3,Duplication,NM_001042432.2(CLN3):c.1067dup (p.Val357fs),"criteria provided, single submitter",16,28489187,na,na,1
+550025,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-2A>C,"criteria provided, single submitter",16,28493521,na,na,1
+556560,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-2A>C,"criteria provided, single submitter",16,28499064,na,na,1
+550544,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1116C>G (p.Tyr372Ter),"criteria provided, single submitter",16,28489139,na,na,1
+550666,CLN3,Duplication,NM_001042432.2(CLN3):c.195dup (p.Lys66fs),"criteria provided, single submitter",16,28500637,na,na,1
+552523,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-1G>A,"criteria provided, single submitter",16,28499984,na,na,1
+558574,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+1G>C,"criteria provided, single submitter",16,28503034,na,na,1
+559021,CLN3,Duplication,NM_001042432.2(CLN3):c.1057-22dup,"criteria provided, single submitter",16,28489219,na,na,0
+565293,CLN3,Deletion,NM_000086.2(CLN3):c.(374+1_375-1)_(533+1_534-1)del,no assertion criteria provided,16,28497812,na,na,1
+584138,CLN3,Deletion,NC_000016.10:g.(?_28486347)_(28486650_?)del,"criteria provided, single submitter",16,28497668,na,na,1
+584086,CLN3,Deletion,NC_000016.10:g.(?_28487456)_(28595930_?)del,"criteria provided, single submitter",16,28498777,na,na,1
+585707,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.519T>C (p.Thr173=),"criteria provided, multiple submitters, no conflicts",16,28497913,na,na,0
+590047,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1002C>T (p.Arg334=),"criteria provided, multiple submitters, no conflicts",16,28493480,na,na,0
+590095,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1269G>A (p.Ser423=),"criteria provided, multiple submitters, no conflicts",16,28488885,na,na,0
+590084,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1158C>T (p.Gly386=),"criteria provided, multiple submitters, no conflicts",16,28489097,na,na,0
+632772,CLN3,Deletion,NM_001042432.2(CLN3):c.790+532_1056+1445del,"criteria provided, single submitter",16,28491981,na,na,1
+660322,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056G>T (p.Gln352His),"criteria provided, single submitter",16,28493426,na,na,1
+651209,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.291G>A (p.Thr97=),"criteria provided, multiple submitters, no conflicts",16,28499915,na,na,0
+657904,CLN3,Deletion,NC_000016.10:g.(?_28485965)_(28486930_?)del,"criteria provided, single submitter",16,28497286,na,na,1
+666431,CLN3,Deletion,NM_001042432.2(CLN3):c.460+376_677+388del,"criteria provided, single submitter",16,28497280,na,na,1
+669734,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1200C>T (p.Thr400=),"criteria provided, single submitter",16,28488954,na,na,0
+668631,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.768C>G (p.Thr256=),"criteria provided, single submitter",16,28495349,na,na,0
+668379,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-93T>G,"criteria provided, single submitter",16,28503357,na,na,0
+673497,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-105T>A,"criteria provided, single submitter",16,28503369,na,na,0
+673187,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-55C>T,"criteria provided, single submitter",16,28489253,na,na,0
+671815,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+286A>G,"criteria provided, single submitter",16,28499626,na,na,0
+674477,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+49A>G,"criteria provided, multiple submitters, no conflicts",16,28502754,na,na,0
+673186,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+63A>G,"criteria provided, single submitter",16,28502972,na,na,0
+673185,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.-77+85G>A,"criteria provided, single submitter",16,28503256,na,na,0
+668507,CLN3,Deletion,NM_001042432.2(CLN3):c.907-19del,"criteria provided, single submitter",16,28493722,na,na,0
+668788,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-313G>A,"criteria provided, single submitter",16,28495752,na,na,0
+677657,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+147C>G,"criteria provided, single submitter",16,28497521,na,na,0
+668096,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+265A>T,"criteria provided, single submitter",16,28499647,na,na,0
+681440,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+13G>A,"criteria provided, multiple submitters, no conflicts",16,28503022,na,na,0
+679913,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-144C>T,"criteria provided, single submitter",16,28489342,na,na,0
+677582,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-127C>T,"criteria provided, single submitter",16,28499189,na,na,0
+668786,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+253T>A,"criteria provided, single submitter",16,28499659,na,na,0
+677581,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-211A>T,"criteria provided, single submitter",16,28500918,na,na,0
+697393,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+7G>C,"criteria provided, single submitter",16,28498770,na,na,0
+698778,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1095C>T (p.Phe365=),"criteria provided, single submitter",16,28489160,na,na,0
+700742,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.621C>G (p.Leu207=),"criteria provided, single submitter",16,28497724,na,na,0
+699471,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+10C>G,"criteria provided, single submitter",16,28499902,na,na,0
+700464,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-5A>G,"criteria provided, single submitter",16,28499988,na,na,0
+697607,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+10C>T,"criteria provided, single submitter",16,28503025,na,na,0
+702474,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.591G>A (p.Leu197=),"criteria provided, single submitter",16,28497754,na,na,0
+702277,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.258C>T (p.Ser86=),"criteria provided, single submitter",16,28499948,na,na,0
+783163,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.945C>T (p.His315=),"criteria provided, single submitter",16,28493665,na,na,0
+791072,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.741C>T (p.Ser247=),"criteria provided, single submitter",16,28495376,na,na,0
+714436,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+10C>T,"criteria provided, single submitter",16,28499902,na,na,0
+732433,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.69C>T (p.Pro23=),"criteria provided, multiple submitters, no conflicts",16,28502859,na,na,0
+724312,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.837+8T>A,"criteria provided, single submitter",16,28493939,na,na,0
+735581,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-7C>T,"criteria provided, single submitter",16,28497978,na,na,0
+745498,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-10C>T,"criteria provided, single submitter",16,28499993,na,na,0
+762189,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1078C>T (p.Leu360=),"criteria provided, single submitter",16,28489177,na,na,0
+755875,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1066C>T (p.Leu356=),"criteria provided, single submitter",16,28489189,na,na,0
+761479,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.381G>C (p.Arg127=),"criteria provided, single submitter",16,28498856,na,na,0
+760303,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.378C>T (p.Pro126=),"criteria provided, single submitter",16,28498859,na,na,0
+762790,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.312C>T (p.Asp104=),"criteria provided, single submitter",16,28499045,na,na,0
+761036,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.255C>T (p.Asn85=),"criteria provided, single submitter",16,28499951,na,na,0
+755090,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.120C>T (p.Gly40=),"criteria provided, single submitter",16,28502808,na,na,0
+763129,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.114G>A (p.Ala38=),"criteria provided, single submitter",16,28502814,na,na,0
+762838,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.838-9C>T,"criteria provided, single submitter",16,28493875,na,na,0
+765455,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-10C>T,"criteria provided, single submitter",16,28497981,na,na,0
+800128,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.759C>T (p.Leu253=),"criteria provided, single submitter",16,28495358,na,na,0
+799912,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.744A>C (p.Ala248=),"criteria provided, single submitter",16,28495373,na,na,0
+795474,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-8T>C,"criteria provided, single submitter",16,28502889,na,na,0
+803246,CLN3,Deletion,NM_001042432.2(CLN3):c.373del (p.Ser125fs),"criteria provided, single submitter",16,28498984,na,na,1
+813032,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+2T>A,"criteria provided, multiple submitters, no conflicts",16,28489056,na,na,1
+813031,CLN3,Deletion,NM_001042432.2(CLN3):c.922_923del (p.Phe308fs),"criteria provided, multiple submitters, no conflicts",16,28493687,na,na,1
+813302,CLN3,copy number loss,GRCh37/hg19 16p11.2(chr16:28497668-28497971),"criteria provided, single submitter",16,28497668,na,na,1
+818028,CLN3,Deletion,NM_001042432.2(CLN3):c.899del (p.Gln300fs),"criteria provided, single submitter",16,28493805,na,na,1
+833507,CLN3,Deletion,NC_000016.10:g.(?_28475343)_(28484138_?)del,"criteria provided, single submitter",16,28486664,na,na,1
+833481,CLN3,Deletion,NC_000016.10:g.(?_28475343)_(28486650_?)del,"criteria provided, single submitter",16,28486664,na,na,1
+832292,CLN3,Deletion,NC_000016.10:g.(?_28477496)_(28491779_?)del,"criteria provided, single submitter",16,28488817,na,na,1
+831057,CLN3,Deletion,NC_000016.10:g.(?_28483996)_(28484128_?)del,"criteria provided, single submitter",16,28495317,na,na,1
+852654,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.374+1G>A,"criteria provided, single submitter",16,28498982,na,na,1
+853130,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-2A>G,"criteria provided, single submitter",16,28493521,na,na,1
+872058,CLN3,copy number loss,GRCh37/hg19 16p11.2(chr16:28497668-28497971)x1,"criteria provided, single submitter",16,28497668,na,na,1
+915981,CLN3,copy number loss,GRCh37/hg19 16p11.2(chr16:28497668-28497972),no assertion criteria provided,16,28497668,na,na,1
+959239,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-2A>T,"criteria provided, single submitter",16,28498864,na,na,1
+953100,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+1G>C,"criteria provided, multiple submitters, no conflicts",16,28502802,na,na,1
+975364,CLN3,Microsatellite,NM_001042432.2(CLN3):c.913CTC[1] (p.Leu306del),no assertion criteria provided,16,28493692,na,na,0
+975366,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-4C>G,"criteria provided, single submitter",16,28497975,na,na,0
+983870,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962G>A (p.Trp321Ter),"criteria provided, single submitter",16,28493648,na,na,1
+996830,CLN3,Deletion,NM_001042432.2(CLN3):c.1127del (p.Leu376fs),no assertion criteria provided,16,28489128,na,na,1
+997815,CLN3,Deletion,Single allele,no assertion criteria provided,16,28495440,na,na,1
+1012398,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-2A>G,"criteria provided, single submitter",16,28495441,na,na,1
+1026184,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.576G>T (p.Gly192=),"criteria provided, single submitter",16,28497769,na,na,0
+1019041,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.84G>A (p.Leu28=),"criteria provided, multiple submitters, no conflicts",16,28502844,na,na,0
+1056536,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.723G>T (p.Gly241=),"criteria provided, single submitter",16,28495394,na,na,0
+1056645,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-6C>G,"criteria provided, single submitter",16,28498868,na,na,0
+1067908,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-2A>G,"criteria provided, single submitter",16,28489200,na,na,1
+1067645,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+2T>G,"criteria provided, single submitter",16,28493646,na,na,1
+1073957,CLN3,Deletion,NC_000016.9:g.(?_28484798)_28497560del,"criteria provided, single submitter",na,-1,na,na,1
+1073956,CLN3,Deletion,NC_000016.9:g.(?_28488827)_(28950294_?)del,"criteria provided, single submitter",16,28488827,na,na,1
+1073958,CLN3,Deletion,NC_000016.9:g.(?_28493426)_(28493993_?)del,"criteria provided, single submitter",16,28493426,na,na,1
+1073959,CLN3,Deletion,NC_000016.9:g.(?_28502803)_(28503080_?)del,"criteria provided, single submitter",16,28502803,na,na,1
+1076288,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-2A>C,"criteria provided, single submitter",16,28488958,na,na,1
+1072910,CLN3,Deletion,NM_001042432.2(CLN3):c.592del (p.Ser198fs),"criteria provided, single submitter",16,28497753,na,na,1
+1070933,CLN3,Deletion,NM_001042432.2(CLN3):c.392del (p.Ser131fs),"criteria provided, single submitter",16,28498845,na,na,1
+1072038,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.43G>T (p.Glu15Ter),"criteria provided, single submitter",16,28503038,na,na,1
+1079089,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1263C>T (p.Ser421=),"criteria provided, single submitter",16,28488891,na,na,0
+1081630,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-10G>T,"criteria provided, single submitter",16,28488966,na,na,0
+1094089,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+14G>A,"criteria provided, single submitter",16,28489044,na,na,0
+1092513,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1161A>G (p.Ala387=),"criteria provided, single submitter",16,28489094,na,na,0
+1084642,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1146G>T (p.Gly382=),"criteria provided, single submitter",16,28489109,na,na,0
+1086019,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1113C>T (p.Ile371=),"criteria provided, single submitter",16,28489142,na,na,0
+1092585,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1089G>T (p.Val363=),"criteria provided, single submitter",16,28489166,na,na,0
+1079063,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1074C>T (p.Phe358=),"criteria provided, single submitter",16,28489181,na,na,0
+1094224,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.915C>T (p.Leu305=),"criteria provided, single submitter",16,28493695,na,na,0
+1082060,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+9G>C,"criteria provided, single submitter",16,28493789,na,na,0
+1083954,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-8C>T,"criteria provided, single submitter",16,28494001,na,na,0
+1085979,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+10A>G,"criteria provided, single submitter",16,28495317,na,na,0
+1097556,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+9C>G,"criteria provided, single submitter",16,28495318,na,na,0
+1081683,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.687G>A (p.Leu229=),"criteria provided, single submitter",16,28495430,na,na,0
+1089163,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.685T>C (p.Leu229=),"criteria provided, single submitter",16,28495432,na,na,0
+1082674,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-7C>T,"criteria provided, single submitter",16,28495446,na,na,0
+1079515,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.645C>G (p.Ser215=),"criteria provided, single submitter",16,28497700,na,na,0
+1093960,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.645C>A (p.Ser215=),"criteria provided, single submitter",16,28497700,na,na,0
+1080604,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.637C>T (p.Leu213=),"criteria provided, single submitter",16,28497708,na,na,0
+1090304,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.591G>C (p.Leu197=),"criteria provided, single submitter",16,28497754,na,na,0
+1082938,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.543C>T (p.Ile181=),"criteria provided, single submitter",16,28497802,na,na,0
+1085151,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.471C>T (p.Phe157=),"criteria provided, single submitter",16,28497961,na,na,0
+1088314,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.374+7G>A,"criteria provided, single submitter",16,28498976,na,na,0
+1095390,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.204A>G (p.Thr68=),"criteria provided, single submitter",16,28500629,na,na,0
+1081336,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+9C>G,"criteria provided, single submitter",16,28502794,na,na,0
+1093962,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.117G>A (p.Val39=),"criteria provided, single submitter",16,28502811,na,na,0
+1094081,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.99G>T (p.Ala33=),"criteria provided, single submitter",16,28502829,na,na,0
+1084725,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.21G>C (p.Ser7=),"criteria provided, single submitter",16,28503060,na,na,0
+1114848,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1288C>T (p.Leu430=),"criteria provided, single submitter",16,28488866,na,na,0
+1117479,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1272G>A (p.Gly424=),"criteria provided, single submitter",16,28488882,na,na,0
+1108034,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1242C>T (p.Ile414=),"criteria provided, single submitter",16,28488912,na,na,0
+1112919,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1233C>T (p.Ala411=),"criteria provided, single submitter",16,28488921,na,na,0
+1104007,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-7C>T,"criteria provided, single submitter",16,28488963,na,na,0
+1100861,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+10G>A,"criteria provided, single submitter",16,28489048,na,na,0
+1115583,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1126C>T (p.Leu376=),"criteria provided, single submitter",16,28489129,na,na,0
+1118775,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-5C>T,"criteria provided, single submitter",16,28489203,na,na,0
+1114387,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1035C>T (p.Thr345=),"criteria provided, single submitter",16,28493447,na,na,0
+1103796,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1017C>T (p.Cys339=),"criteria provided, single submitter",16,28493465,na,na,0
+1101238,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.969G>A (p.Gln323=),"criteria provided, single submitter",16,28493513,na,na,0
+1101877,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.798C>T (p.Ser266=),"criteria provided, single submitter",16,28493986,na,na,0
+1112094,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.688T>C (p.Leu230=),"criteria provided, single submitter",16,28495429,na,na,0
+1103574,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.651G>C (p.Leu217=),"criteria provided, single submitter",16,28497694,na,na,0
+1114022,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.582G>A (p.Leu194=),"criteria provided, single submitter",16,28497763,na,na,0
+1104621,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-5C>G,"criteria provided, single submitter",16,28497976,na,na,0
+1108846,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-8C>A,"criteria provided, single submitter",16,28497979,na,na,0
+1114670,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.423G>C (p.Leu141=),"criteria provided, single submitter",16,28498814,na,na,0
+1106138,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.321C>T (p.Pro107=),"criteria provided, single submitter",16,28499036,na,na,0
+1114008,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.243G>C (p.Pro81=),"criteria provided, single submitter",16,28499963,na,na,0
+1104328,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-8C>T,"criteria provided, multiple submitters, no conflicts",16,28499991,na,na,0
+1101661,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.129G>A (p.Leu43=),"criteria provided, single submitter",16,28500704,na,na,0
+1114673,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.66G>A (p.Glu22=),"criteria provided, single submitter",16,28502862,na,na,0
+1112090,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.57C>G (p.Thr19=),"criteria provided, single submitter",16,28502871,na,na,0
+1104505,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-9C>T,"criteria provided, single submitter",16,28502890,na,na,0
+1108734,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.18C>A (p.Gly6=),"criteria provided, single submitter",16,28503063,na,na,0
+1102598,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.9C>T (p.Gly3=),"criteria provided, single submitter",16,28503072,na,na,0
+1120167,CLN3,Deletion,Single allele,"criteria provided, single submitter",16,28497667,na,-,1
+1136766,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-10G>A,"criteria provided, single submitter",16,28488966,na,na,0
+1137581,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1152G>C (p.Leu384=),"criteria provided, single submitter",16,28489103,na,na,0
+1124113,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+10C>G,"criteria provided, single submitter",16,28493416,na,na,0
+1133578,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.915C>G (p.Leu305=),"criteria provided, single submitter",16,28493695,na,na,0
+1124294,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.867C>G (p.Val289=),"criteria provided, single submitter",16,28493837,na,na,0
+1123042,CLN3,Deletion,NM_001042432.2(CLN3):c.791-6del,"criteria provided, single submitter",16,28493999,na,na,0
+1131680,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.711G>A (p.Gln237=),"criteria provided, single submitter",16,28495406,na,na,0
+1127470,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+9C>T,"criteria provided, single submitter",16,28497659,na,na,0
+1133024,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.609C>G (p.Thr203=),"criteria provided, single submitter",16,28497736,na,na,0
+1127645,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-4C>T,"criteria provided, single submitter",16,28497975,na,na,0
+1131849,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.387C>T (p.Leu129=),"criteria provided, single submitter",16,28498850,na,na,0
+1123158,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-10A>G,"criteria provided, single submitter",16,28498872,na,na,0
+1126144,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.374+9G>A,"criteria provided, single submitter",16,28498974,na,na,0
+1129605,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.339G>A (p.Leu113=),"criteria provided, multiple submitters, no conflicts",16,28499018,na,na,0
+1121824,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-7C>T,"criteria provided, single submitter",16,28499990,na,na,0
+1124103,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+9C>G,"criteria provided, single submitter",16,28500602,na,na,0
+1120922,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.213C>T (p.Asn71=),"criteria provided, single submitter",16,28500620,na,na,0
+1122123,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.147C>T (p.Asn49=),"criteria provided, single submitter",16,28500686,na,na,0
+1121564,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-7C>T,"criteria provided, single submitter",16,28502888,na,na,0
+1161150,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1316G>A (p.Ter439=),"criteria provided, single submitter",16,28488838,na,na,0
+1148783,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1284G>A (p.Leu428=),"criteria provided, single submitter",16,28488870,na,na,0
+1143197,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1188C>T (p.Ile396=),"criteria provided, single submitter",16,28489067,na,na,0
+1144700,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1116C>T (p.Tyr372=),"criteria provided, single submitter",16,28489139,na,na,0
+1153630,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1086C>T (p.Asp362=),"criteria provided, single submitter",16,28489169,na,na,0
+1156666,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1065C>T (p.Asn355=),"criteria provided, single submitter",16,28489190,na,na,0
+1150961,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1023C>T (p.Arg341=),"criteria provided, single submitter",16,28493459,na,na,0
+1155072,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+10G>A,"criteria provided, single submitter",16,28493638,na,na,0
+1147125,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+8G>A,"criteria provided, single submitter",16,28493640,na,na,0
+1150119,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.843G>T (p.Leu281=),"criteria provided, single submitter",16,28493861,na,na,0
+1143975,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+7G>C,"criteria provided, single submitter",16,28495320,na,na,0
+1142017,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+7G>A,"criteria provided, single submitter",16,28495320,na,na,0
+1152286,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.756C>T (p.Pro252=),"criteria provided, single submitter",16,28495361,na,na,0
+1160476,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.657C>T (p.Ile219=),"criteria provided, single submitter",16,28497688,na,na,0
+1147786,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.639G>C (p.Leu213=),"criteria provided, single submitter",16,28497706,na,na,0
+1161178,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.618C>T (p.Gly206=),"criteria provided, single submitter",16,28497727,na,na,0
+1158723,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.537C>T (p.Ala179=),"criteria provided, single submitter",16,28497808,na,na,0
+1149165,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.374+7G>C,"criteria provided, single submitter",16,28498976,na,na,0
+1153086,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+7A>G,"criteria provided, single submitter",16,28499905,na,na,0
+1145567,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.237A>G (p.Pro79=),"criteria provided, single submitter",16,28499969,na,na,0
+1159380,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.144C>T (p.Asn48=),"criteria provided, single submitter",16,28500689,na,na,0
+1154626,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.108G>A (p.Lys36=),"criteria provided, single submitter",16,28502820,na,na,0
+1146451,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.102T>C (p.His34=),"criteria provided, single submitter",16,28502826,na,na,0
+1145902,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-7C>G,"criteria provided, single submitter",16,28502888,na,na,0
+1181387,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+236A>G,"criteria provided, single submitter",16,28499676,na,na,0
+1189498,CLN3,Deletion,NM_001042432.2(CLN3):c.790+288_790+292del,"criteria provided, single submitter",16,28495035,na,na,0
+1189655,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+201G>A,"criteria provided, multiple submitters, no conflicts",16,28497467,na,na,0
+1191966,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+251A>T,"criteria provided, single submitter",16,28499661,na,na,0
+1194090,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-112G>T,"criteria provided, multiple submitters, no conflicts",16,28494105,na,na,0
+1194272,CLN3,Insertion,NM_001042432.2(CLN3):c.294+265_294+266insT,"criteria provided, single submitter",16,28499646,na,na,0
+1196652,CLN3,Deletion,NM_001042432.2(CLN3):c.1056+118del,"criteria provided, single submitter",16,28493308,na,na,0
+1198137,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+168C>T,"criteria provided, multiple submitters, no conflicts",16,28495159,na,na,0
+1197652,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-336A>T,"criteria provided, single submitter",16,28495775,na,na,0
+1201315,CLN3,Duplication,NC_000016.10:g.28492395_28492396dup,"criteria provided, single submitter",16,28503697,na,na,0
+1204933,CLN3,Duplication,NM_001042432.2(CLN3):c.790+267dup,"criteria provided, single submitter",16,28495034,na,na,0
+1208590,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.838-35C>G,"criteria provided, single submitter",16,28493901,na,na,0
+1214833,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-302A>G,"criteria provided, single submitter",16,28489500,na,na,0
+1226863,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-59G>A,"criteria provided, multiple submitters, no conflicts",16,28499121,na,na,0
+1231842,CLN3,Deletion,NC_000016.10:g.28492396del,"criteria provided, single submitter",16,28503698,na,na,0
+1233762,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-148A>G,"criteria provided, single submitter",16,28489346,na,na,0
+1236772,CLN3,Deletion,NM_001042432.2(CLN3):c.790+292del,"criteria provided, single submitter",16,28495035,na,na,0
+1251072,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-60C>G,"criteria provided, single submitter",16,28502941,na,na,0
+1258080,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-229T>C,"criteria provided, single submitter",16,28499291,na,na,0
+1269283,CLN3,Deletion,NM_001042432.2(CLN3):c.294+266_294+267del,"criteria provided, single submitter",16,28499645,na,na,0
+1289472,CLN3,single nucleotide variant,NC_000016.10:g.28492377T>C,"criteria provided, single submitter",16,28503698,na,na,0
+1291265,CLN3,Duplication,NC_000016.10:g.28492396dup,"criteria provided, single submitter",16,28503697,na,na,0
+1291622,CLN3,Deletion,NM_001042432.2(CLN3):c.790+281_790+292del,"criteria provided, single submitter",16,28495035,na,na,0
+1293476,CLN3,Duplication,NM_001042432.2(CLN3):c.1056+102dup,"criteria provided, single submitter",16,28493307,na,na,0
+1298090,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+140G>A,"criteria provided, single submitter",16,28493286,na,na,0
+1395916,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.500T>A (p.Val167Asp),"criteria provided, multiple submitters, no conflicts",16,28497932,na,na,1
+1465529,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1164C>A (p.Ala388=),"criteria provided, single submitter",16,28489091,na,na,0
+1481473,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-5C>G,"criteria provided, single submitter",16,28498867,na,na,0
+1417871,CLN3,Deletion,NC_000016.9:g.(?_28495307)_(28495459_?)del,"criteria provided, single submitter",16,28495307,na,na,1
+1393462,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+11C>T,"criteria provided, single submitter",16,28493637,na,na,0
+1431853,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.709C>T (p.Gln237Ter),"criteria provided, single submitter",16,28495408,na,na,1
+1451800,CLN3,Deletion,NM_001042432.2(CLN3):c.30del (p.Ser12fs),"criteria provided, single submitter",16,28503051,na,na,1
+1452713,CLN3,Deletion,NC_000016.9:g.(?_28488837)_(28495459_?)del,"criteria provided, single submitter",16,28488837,na,na,1
+1452129,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.825G>A (p.Trp275Ter),"criteria provided, single submitter",16,28493959,na,na,1
+1508429,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.907-2A>G,"criteria provided, single submitter",16,28493705,na,na,1
+1466148,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+1G>T,"criteria provided, multiple submitters, no conflicts",16,28493425,na,na,1
+1429184,CLN3,Deletion,NM_001042432.2(CLN3):c.985_988del (p.Gly329fs),"criteria provided, single submitter",16,28493494,na,na,1
+1456097,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+11C>T,"criteria provided, single submitter",16,28503024,na,na,0
+1513230,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1257G>T (p.Gly419=),"criteria provided, single submitter",16,28488897,na,na,0
+1387336,CLN3,Deletion,NM_001042432.2(CLN3):c.105del (p.His34_Trp35insTer),"criteria provided, single submitter",16,28502823,na,na,1
+1469654,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+2T>G,"criteria provided, single submitter",16,28493796,na,na,1
+1643086,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-9C>T,"criteria provided, single submitter",16,28494002,na,na,0
+1553798,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.804C>T (p.Ser268=),"criteria provided, single submitter",16,28493980,na,na,0
+1577733,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.576G>A (p.Gly192=),"criteria provided, single submitter",16,28497769,na,na,0
+1644745,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.984T>A (p.Ala328=),"criteria provided, single submitter",16,28493498,na,na,0
+1601797,CLN3,Deletion,NM_001042432.2(CLN3):c.461-3del,"criteria provided, single submitter",16,28497974,na,na,0
+1635507,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+12G>A,"criteria provided, single submitter",16,28493636,na,na,0
+1535263,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.783G>A (p.Ser261=),"criteria provided, single submitter",16,28495334,na,na,0
+1536799,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.273C>T (p.Asp91=),"criteria provided, single submitter",16,28499933,na,na,0
+1579447,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.843G>A (p.Leu281=),"criteria provided, single submitter",16,28493861,na,na,0
+1583155,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.907-7G>A,"criteria provided, single submitter",16,28493710,na,na,0
+1612222,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.127C>T (p.Leu43=),"criteria provided, single submitter",16,28500706,na,na,0
+1548249,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+18C>T,"criteria provided, single submitter",16,28503017,na,na,0
+1623252,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-7C>T,"criteria provided, single submitter",16,28498869,na,na,0
+1623328,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.324A>G (p.Thr108=),"criteria provided, single submitter",16,28499033,na,na,0
+1623345,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-19G>A,"criteria provided, single submitter",16,28495458,na,na,0
+1624939,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.533+10T>G,"criteria provided, single submitter",16,28497889,na,na,0
+1540478,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-11C>G,"criteria provided, single submitter",16,28489209,na,na,0
+1632955,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+13A>C,"criteria provided, single submitter",16,28502790,na,na,0
+1615437,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.374+16G>T,"criteria provided, single submitter",16,28498967,na,na,0
+1653258,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.792C>T (p.Gly264=),"criteria provided, single submitter",16,28493992,na,na,0
+1620910,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1302C>A (p.Leu434=),"criteria provided, single submitter",16,28488852,na,na,0
+1575922,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+10G>A,"criteria provided, single submitter",16,28493788,na,na,0
+1611856,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1149C>T (p.Leu383=),"criteria provided, multiple submitters, no conflicts",16,28489106,na,na,0
+1642295,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1071G>T (p.Val357=),"criteria provided, single submitter",16,28489184,na,na,0
+1553182,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.846G>A (p.Leu282=),"criteria provided, single submitter",16,28493858,na,na,0
+1661192,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-6T>C,"criteria provided, single submitter",16,28495445,na,na,0
+1563147,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-12C>T,"criteria provided, single submitter",16,28499074,na,na,0
+1636311,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.156T>C (p.Tyr52=),"criteria provided, single submitter",16,28500677,na,na,0
+1545645,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.261A>T (p.Ser87=),"criteria provided, single submitter",16,28499945,na,na,0
+1638254,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-16C>T,"criteria provided, single submitter",16,28489214,na,na,0
+1564955,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-11C>T,"criteria provided, single submitter",16,28498873,na,na,0
+1566786,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.936C>T (p.Ser312=),"criteria provided, single submitter",16,28493674,na,na,0
+1668301,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.999C>A (p.Ser333=),"criteria provided, single submitter",16,28493483,na,na,0
+1550809,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-13C>T,"criteria provided, single submitter",16,28502894,na,na,0
+1589805,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.838-12T>C,"criteria provided, single submitter",16,28493878,na,na,0
+1590135,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1185C>T (p.Asn395=),"criteria provided, single submitter",16,28489070,na,na,0
+1661894,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1179C>T (p.Phe393=),"criteria provided, single submitter",16,28489076,na,na,0
+1662212,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.264A>G (p.Ser88=),"criteria provided, single submitter",16,28499942,na,na,0
+1626472,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.374+15A>G,"criteria provided, single submitter",16,28498968,na,na,0
+1671816,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.558A>G (p.Ser186=),"criteria provided, single submitter",16,28497787,na,na,0
+1533624,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-9C>T,"criteria provided, single submitter",16,28488965,na,na,0
+1533809,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.990C>G (p.Val330=),"criteria provided, single submitter",16,28493492,na,na,0
+1610656,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-13C>A,"criteria provided, single submitter",16,28498875,na,na,0
+1643185,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+9C>T,"criteria provided, single submitter",16,28495318,na,na,0
+1578447,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.177C>T (p.Ala59=),"criteria provided, single submitter",16,28500656,na,na,0
+1567465,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-18C>A,"criteria provided, single submitter",16,28489216,na,na,0
+1567500,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+9G>A,"criteria provided, single submitter",16,28498768,na,na,0
+1556583,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-8C>T,"criteria provided, single submitter",16,28498870,na,na,0
+1622211,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.513C>T (p.Ser171=),"criteria provided, single submitter",16,28497919,na,na,0
+1539176,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1200C>A (p.Thr400=),"criteria provided, single submitter",16,28488954,na,na,0
+1646939,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.930C>T (p.Asn310=),"criteria provided, single submitter",16,28493680,na,na,0
+1669147,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+13G>T,"criteria provided, single submitter",16,28503022,na,na,0
+1529563,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1048C>T (p.Leu350=),"criteria provided, single submitter",16,28493434,na,na,0
+1670577,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-5C>T,"criteria provided, single submitter",16,28497976,na,na,0
+1561683,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+18G>A,"criteria provided, single submitter",16,28493780,na,na,0
+1634991,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.374+14T>C,"criteria provided, single submitter",16,28498969,na,na,0
+1616019,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1215G>C (p.Arg405=),"criteria provided, single submitter",16,28488939,na,na,0
+1593186,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+17C>T,"criteria provided, single submitter",16,28497651,na,na,0
+1569941,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.501C>T (p.Val167=),"criteria provided, single submitter",16,28497931,na,na,0
+1569988,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.589C>T (p.Leu197=),"criteria provided, single submitter",16,28497756,na,na,0
+1547502,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.15A>T (p.Ala5=),"criteria provided, single submitter",16,28503066,na,na,0
+1585134,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-18C>T,"criteria provided, single submitter",16,28489216,na,na,0
+1585309,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.717T>C (p.Pro239=),"criteria provided, multiple submitters, no conflicts",16,28495400,na,na,0
+1585391,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-16C>T,"criteria provided, single submitter",16,28497987,na,na,0
+1586824,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-17C>G,"criteria provided, single submitter",16,28493536,na,na,0
+1624696,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+7A>G,"criteria provided, single submitter",16,28503028,na,na,0
+1602259,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+16T>C,"criteria provided, single submitter",16,28493782,na,na,0
+1658972,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+13C>G,"criteria provided, single submitter",16,28489045,na,na,0
+1659041,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-17C>A,"criteria provided, single submitter",16,28493536,na,na,0
+1588744,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+18G>A,"criteria provided, single submitter",16,28497650,na,na,0
+1637620,CLN3,Deletion,NM_001042432.2(CLN3):c.294+12_294+14del,"criteria provided, single submitter",16,28499898,na,na,0
+1605578,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.411A>G (p.Gly137=),"criteria provided, single submitter",16,28498826,na,na,0
+1639579,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.534-20T>A,"criteria provided, single submitter",16,28497831,na,na,0
+1645558,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1173C>T (p.Asn391=),"criteria provided, single submitter",16,28489082,na,na,0
+1582083,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-15C>T,"criteria provided, single submitter",16,28493534,na,na,0
+1606742,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+17C>G,"criteria provided, single submitter",16,28489041,na,na,0
+1550349,CLN3,Deletion,NM_001042432.2(CLN3):c.375-4del,"criteria provided, single submitter",16,28498866,na,na,0
+1598257,CLN3,Duplication,NM_001042432.2(CLN3):c.837+9dup,"criteria provided, single submitter",16,28493937,na,na,0
+1650576,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+16C>T,"criteria provided, single submitter",16,28502787,na,na,0
+1669601,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1005T>C (p.Ser335=),"criteria provided, single submitter",16,28493477,na,na,0
+1685639,CLN3,Duplication,NM_001042432.2(CLN3):c.382dup (p.Val128fs),"criteria provided, single submitter",16,28498854,na,na,1
+1705114,CLN3,Deletion,NC_000016.9:g.(?_28488599)_(28495440_28497667)del,"criteria provided, single submitter",16,28488599,na,na,1
+1725286,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.852C>G (p.Tyr284Ter),"criteria provided, single submitter",16,28493852,na,na,1
+1726197,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1038G>A (p.Trp346Ter),"criteria provided, single submitter",16,28493444,na,na,1
+1726643,CLN3,Deletion,NM_001042432.2(CLN3):c.849del (p.Trp283fs),"criteria provided, single submitter",16,28493855,na,na,1
+1726715,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.528C>A (p.Tyr176Ter),"criteria provided, single submitter",16,28497904,na,na,1
+1726924,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.276C>A (p.Cys92Ter),"criteria provided, single submitter",16,28499930,na,na,1
+1767342,CLN3,Duplication,NM_001042432.2(CLN3):c.954dup (p.Tyr319fs),"criteria provided, single submitter",16,28493655,na,na,1
+2139960,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.837+9G>A,"criteria provided, single submitter",16,28493938,na,na,0
+2140165,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+16C>A,"criteria provided, single submitter",16,28493410,na,na,0
+2147120,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.838-11G>A,"criteria provided, single submitter",16,28493877,na,na,0
+2138984,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-11C>A,"criteria provided, single submitter",16,28498873,na,na,0
+2145737,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.594C>T (p.Ser198=),"criteria provided, single submitter",16,28497751,na,na,0
+2158552,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.714C>T (p.Asp238=),"criteria provided, single submitter",16,28495403,na,na,0
+2161953,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.522C>T (p.Ala174=),"criteria provided, single submitter",16,28497910,na,na,0
+2154691,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1266G>A (p.Leu422=),"criteria provided, single submitter",16,28488888,na,na,0
+2161666,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-16C>G,"criteria provided, single submitter",16,28488972,na,na,0
+2153914,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.396G>A (p.Gly132=),"criteria provided, single submitter",16,28498841,na,na,0
+2160665,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.837+13G>A,"criteria provided, single submitter",16,28493934,na,na,0
+2165457,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-18A>T,"criteria provided, single submitter",16,28500001,na,na,0
+2165693,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+16G>A,"criteria provided, single submitter",16,28489042,na,na,0
+2185726,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.996C>T (p.Ala332=),"criteria provided, single submitter",16,28493486,na,na,0
+2177871,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.360C>T (p.His120=),"criteria provided, single submitter",16,28498997,na,na,0
+2186233,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.162G>A (p.Val54=),"criteria provided, single submitter",16,28500671,na,na,0
+2194618,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+9T>C,"criteria provided, single submitter",16,28503026,na,na,0
+2200843,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.918C>G (p.Leu306=),"criteria provided, single submitter",16,28493692,na,na,0
+2191861,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1137G>C (p.Leu379=),"criteria provided, single submitter",16,28489118,na,na,0
+2193012,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.813T>A (p.Leu271=),"criteria provided, single submitter",16,28493971,na,na,0
+2423566,CLN3,Deletion,NC_000016.9:g.(?_28488827)_(28489208_?)del,"criteria provided, single submitter",16,28488827,na,na,1
+2423568,CLN3,Deletion,NC_000016.9:g.(?_28495317)_(28500717_?)del,"criteria provided, single submitter",16,28495317,na,na,1
+2423570,CLN3,Deletion,NC_000016.9:g.(?_27441393)_(29001333_?)del,"criteria provided, single submitter",16,27441393,na,na,1
+2423571,CLN3,Deletion,NC_000016.9:g.(?_28493416)_(28494003_?)del,"criteria provided, single submitter",16,28493416,na,na,1
+2413490,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.534-1G>C,"criteria provided, multiple submitters, no conflicts",16,28497812,na,na,1
+1906081,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-8A>G,"criteria provided, single submitter",16,28493527,na,na,0
+1921221,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.366G>A (p.Leu122=),"criteria provided, single submitter",16,28498991,na,na,0
+1909582,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-10C>G,"criteria provided, single submitter",16,28493529,na,na,0
+1932813,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-1G>A,"criteria provided, single submitter",16,28489199,na,na,1
+1977631,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.885G>A (p.Glu295=),"criteria provided, single submitter",16,28493819,na,na,0
+1974965,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+11C>G,"criteria provided, single submitter",16,28503024,na,na,0
+1986205,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-11T>G,"criteria provided, single submitter",16,28494004,na,na,0
+1998655,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.533+12G>T,"criteria provided, single submitter",16,28497887,na,na,0
+2002289,CLN3,Duplication,NM_001042432.2(CLN3):c.317dup (p.Thr108fs),"criteria provided, single submitter",16,28499039,na,na,1
+1995918,CLN3,Deletion,NM_001042432.2(CLN3):c.223-6del,"criteria provided, single submitter",16,28499989,na,na,0
+1999533,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1128G>A (p.Leu376=),"criteria provided, single submitter",16,28489127,na,na,0
+2008869,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-5C>A,"criteria provided, single submitter",16,28493524,na,na,0
+2017587,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.96C>T (p.Gly32=),"criteria provided, single submitter",16,28502832,na,na,0
+2006885,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.166C>T (p.Leu56=),"criteria provided, single submitter",16,28500667,na,na,0
+2008352,CLN3,Deletion,NM_001042432.2(CLN3):c.413del (p.Ser138fs),"criteria provided, single submitter",16,28498824,na,na,1
+2018929,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-7C>T,"criteria provided, single submitter",16,28494000,na,na,0
+2009626,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.573T>C (p.Ala191=),"criteria provided, single submitter",16,28497772,na,na,0
+2014980,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-2A>G,"criteria provided, single submitter",16,28493995,na,na,1
+2017835,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.907-4G>A,"criteria provided, single submitter",16,28493707,na,na,0
+2029652,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+10T>C,"criteria provided, single submitter",16,28498767,na,na,0
+2026792,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1122C>T (p.Val374=),"criteria provided, single submitter",16,28489133,na,na,0
+2027112,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.120C>G (p.Gly40=),"criteria provided, single submitter",16,28502808,na,na,0
+2030504,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.702T>G (p.Pro234=),"criteria provided, single submitter",16,28495415,na,na,0
+2030554,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+8C>T,"criteria provided, single submitter",16,28499904,na,na,0
+2019467,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1032C>T (p.Phe344=),"criteria provided, single submitter",16,28493450,na,na,0
+2026396,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.6A>G (p.Gly2=),"criteria provided, single submitter",16,28503075,na,na,0
+2034716,CLN3,Deletion,NM_001042432.2(CLN3):c.375-5del,"criteria provided, single submitter",16,28498867,na,na,0
+2046406,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-17T>A,"criteria provided, single submitter",16,28489215,na,na,0
+2040512,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-19G>C,"criteria provided, single submitter",16,28497990,na,na,0
+2051282,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-5C>T,"criteria provided, single submitter",16,28499067,na,na,0
+2059828,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1194G>A (p.Leu398=),"criteria provided, single submitter",16,28489061,na,na,0
+2059842,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+7G>A,"criteria provided, single submitter",16,28500604,na,na,0
+2069219,CLN3,Deletion,NM_001042432.2(CLN3):c.1050_1056+19del,"criteria provided, single submitter",16,28493407,na,na,1
+2087857,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+2T>G,"criteria provided, single submitter",16,28498775,na,na,1
+2081574,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.967C>T (p.Gln323Ter),"criteria provided, single submitter",16,28493515,na,na,1
+2086946,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+16T>C,"criteria provided, single submitter",16,28498761,na,na,0
+2091035,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+16C>A,"criteria provided, single submitter",16,28503019,na,na,0
+2113537,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-14C>T,"criteria provided, single submitter",16,28500721,na,na,0
+2113296,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.861C>G (p.Pro287=),"criteria provided, single submitter",16,28493843,na,na,0
+2105965,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.354C>T (p.Gly118=),"criteria provided, single submitter",16,28499003,na,na,0
+2103545,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.375-6C>A,"criteria provided, single submitter",16,28498868,na,na,0
+2118627,CLN3,Deletion,NM_001042432.2(CLN3):c.828_829del (p.Phe278fs),"criteria provided, single submitter",16,28493955,na,na,1
+2118531,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+11G>T,"criteria provided, single submitter",16,28489047,na,na,0
+2123561,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1192C>T (p.Leu398=),"criteria provided, single submitter",16,28489063,na,na,0
+2115982,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-8A>G,"criteria provided, single submitter",16,28495447,na,na,0
+2116149,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.666G>A (p.Leu222=),"criteria provided, single submitter",16,28497679,na,na,0
+2131001,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+1G>A,"criteria provided, multiple submitters, no conflicts",16,28495326,na,na,1
+2134712,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-10C>G,"criteria provided, single submitter",16,28499993,na,na,0
+2431547,CLN3,Deletion,NC_000016.10:g.(28485964_28486930)del,"criteria provided, single submitter",na,-1,na,na,1
+2435726,CLN3,Insertion,NM_001042432.2(CLN3):c.354_355insG (p.Leu119fs),"criteria provided, single submitter",16,28499002,na,na,1
+2627624,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.838-3C>G,"criteria provided, single submitter",16,28493869,na,na,1
+2680812,CLN3,Deletion,NM_001042432.2(CLN3):c.555del (p.Ser186fs),"criteria provided, single submitter",16,28497790,na,na,1
+2680813,CLN3,Duplication,NM_001042432.2(CLN3):c.379dup (p.Arg127fs),"criteria provided, single submitter",16,28498857,na,na,1
+2680814,CLN3,Deletion,NM_001042432.2(CLN3):c.937del (p.Ser312_Leu313insTer),"criteria provided, single submitter",16,28493673,na,na,1
+2680815,CLN3,Deletion,NM_001042432.2(CLN3):c.678-1_680del,"criteria provided, single submitter",16,28495437,na,na,1
+2680816,CLN3,Duplication,NM_001042432.2(CLN3):c.363dup (p.Leu122fs),"criteria provided, single submitter",16,28498993,na,na,1
+2680817,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.849G>A (p.Trp283Ter),"criteria provided, single submitter",16,28493855,na,na,1
+2680818,CLN3,Deletion,NM_001042432.2(CLN3):c.375-2del,"criteria provided, single submitter",16,28498864,na,na,1
+2680819,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.910G>T (p.Glu304Ter),"criteria provided, single submitter",16,28493700,na,na,1
+2680820,CLN3,Duplication,NM_001042432.2(CLN3):c.1055dup (p.Cys353fs),"criteria provided, single submitter",16,28493426,na,na,1
+2680821,CLN3,Deletion,NM_001042432.2(CLN3):c.47-2del,"criteria provided, single submitter",16,28502883,na,na,1
+2680822,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.372C>G (p.Tyr124Ter),"criteria provided, single submitter",16,28498985,na,na,1
+2680824,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+2T>C,"criteria provided, single submitter",16,28502801,na,na,1
+2680825,CLN3,Deletion,NM_001042432.2(CLN3):c.419del (p.Val140fs),"criteria provided, single submitter",16,28498818,na,na,1
+2680826,CLN3,Deletion,NM_001042432.2(CLN3):c.467del (p.Val156fs),"criteria provided, single submitter",16,28497965,na,na,1
+2680827,CLN3,Deletion,NM_001042432.2(CLN3):c.250del (p.His84fs),"criteria provided, single submitter",16,28499956,na,na,1
+2698750,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.937C>T (p.Leu313=),"criteria provided, single submitter",16,28493673,na,na,0
+2693134,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.540G>T (p.Val180=),"criteria provided, single submitter",16,28497805,na,na,0
+2698242,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.483A>G (p.Ser161=),"criteria provided, single submitter",16,28497949,na,na,0
+2703630,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.837+10A>T,"criteria provided, single submitter",16,28493937,na,na,0
+2694549,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1152G>A (p.Leu384=),"criteria provided, single submitter",16,28489103,na,na,0
+2696045,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.907-17T>A,"criteria provided, single submitter",16,28493720,na,na,0
+2703232,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+1G>T,"criteria provided, single submitter",16,28495326,na,na,1
+2704669,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.564T>C (p.Thr188=),"criteria provided, single submitter",16,28497781,na,na,0
+2692626,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-5C>G,"criteria provided, single submitter",16,28502886,na,na,0
+2707326,CLN3,Deletion,NM_001042432.2(CLN3):c.599_615del (p.Leu200fs),"criteria provided, single submitter",16,28497730,na,na,1
+2709003,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+1G>A,"criteria provided, single submitter",16,28493425,na,na,1
+2709106,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.684C>T (p.Phe228=),"criteria provided, single submitter",16,28495433,na,na,0
+2713642,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+20C>T,"criteria provided, single submitter",16,28500591,na,na,0
+2716679,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+17C>T,"criteria provided, single submitter",16,28499895,na,na,0
+2714589,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-15C>G,"criteria provided, single submitter",16,28493534,na,na,0
+2729075,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-9T>C,"criteria provided, single submitter",16,28500716,na,na,0
+2731760,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.492T>C (p.Leu164=),"criteria provided, single submitter",16,28497940,na,na,0
+2723008,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-11C>A,"criteria provided, single submitter",16,28489209,na,na,0
+2726321,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+19C>A,"criteria provided, single submitter",16,28502784,na,na,0
+2729674,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-18C>T,"criteria provided, single submitter",16,28500725,na,na,0
+2729506,CLN3,Duplication,NM_001042432.2(CLN3):c.1246_1247dup (p.Asp416fs),"criteria provided, single submitter",16,28488906,na,na,1
+2733016,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.696A>G (p.Thr232=),"criteria provided, single submitter",16,28495421,na,na,0
+2734473,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+16C>T,"criteria provided, single submitter",16,28503019,na,na,0
+2734630,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.294+9T>C,"criteria provided, single submitter",16,28499903,na,na,0
+2736155,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-4C>G,"criteria provided, single submitter",16,28488960,na,na,0
+2738025,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.533+15C>T,"criteria provided, single submitter",16,28497884,na,na,0
+2738236,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-15C>T,"criteria provided, single submitter",16,28499998,na,na,0
+2743507,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.447G>A (p.Gly149=),"criteria provided, single submitter",16,28498790,na,na,0
+2749575,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.855T>C (p.Ile285=),"criteria provided, single submitter",16,28493849,na,na,0
+2751451,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+14A>C,"criteria provided, single submitter",16,28495313,na,na,0
+2759895,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.420C>A (p.Val140=),"criteria provided, single submitter",16,28498817,na,na,0
+2760261,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-7G>A,"criteria provided, single submitter",16,28499069,na,na,0
+2754513,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-4C>G,"criteria provided, single submitter",16,28502885,na,na,0
+2756272,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-7G>T,"criteria provided, single submitter",16,28499069,na,na,0
+2756372,CLN3,Duplication,NM_001042432.2(CLN3):c.871dup (p.Val291fs),"criteria provided, single submitter",16,28493832,na,na,1
+2749083,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+11C>G,"criteria provided, single submitter",16,28500600,na,na,0
+2750622,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.657C>A (p.Ile219=),"criteria provided, single submitter",16,28497688,na,na,0
+2754199,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.63G>A (p.Pro21=),"criteria provided, single submitter",16,28502865,na,na,0
+2755868,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+1G>A,"criteria provided, single submitter",16,28500610,na,na,1
+2755950,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.75C>A (p.Leu25=),"criteria provided, single submitter",16,28502853,na,na,0
+2748587,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.642G>A (p.Leu214=),"criteria provided, single submitter",16,28497703,na,na,0
+2769157,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-11C>G,"criteria provided, single submitter",16,28497982,na,na,0
+2761458,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+7T>G,"criteria provided, single submitter",16,28497661,na,na,0
+2770584,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1143G>A (p.Glu381=),"criteria provided, single submitter",16,28489112,na,na,0
+2764874,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.747C>T (p.Ala249=),"criteria provided, single submitter",16,28495370,na,na,0
+2769844,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-19C>T,"criteria provided, single submitter",16,28488975,na,na,0
+2769925,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.99G>C (p.Ala33=),"criteria provided, single submitter",16,28502829,na,na,0
+2769926,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.96C>A (p.Gly32=),"criteria provided, single submitter",16,28502832,na,na,0
+2773213,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.663C>T (p.Ala221=),"criteria provided, single submitter",16,28497682,na,na,0
+2781071,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.907-18G>A,"criteria provided, single submitter",16,28493721,na,na,0
+2782846,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.3G>A (p.Met1Ile),"criteria provided, single submitter",16,28503078,na,na,1
+2782965,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.36G>C (p.Ser12=),"criteria provided, single submitter",16,28503045,na,na,0
+2777192,CLN3,Deletion,NM_001042432.2(CLN3):c.295-17del,"criteria provided, single submitter",16,28499079,na,na,0
+2777194,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-5T>G,"criteria provided, single submitter",16,28493998,na,na,0
+2780924,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-19C>G,"criteria provided, single submitter",16,28488975,na,na,0
+2782116,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-19C>T,"criteria provided, single submitter",16,28489217,na,na,0
+2782239,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+15C>T,"criteria provided, single submitter",16,28503020,na,na,0
+2778437,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-11G>A,"criteria provided, single submitter",16,28500718,na,na,0
+2781814,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-6C>T,"criteria provided, single submitter",16,28497977,na,na,0
+2789834,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+18A>G,"criteria provided, single submitter",16,28500593,na,na,0
+2791535,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-6C>A,"criteria provided, single submitter",16,28493525,na,na,0
+2795122,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.450C>T (p.Thr150=),"criteria provided, single submitter",16,28498787,na,na,0
+2794632,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+20A>C,"criteria provided, single submitter",16,28493778,na,na,0
+2796281,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+11G>A,"criteria provided, single submitter",16,28493787,na,na,0
+2796489,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.636C>T (p.Thr212=),"criteria provided, single submitter",16,28497709,na,na,0
+2799487,CLN3,Deletion,NM_001042432.2(CLN3):c.533+19del,"criteria provided, single submitter",16,28497880,na,na,0
+2799007,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+7G>A,"criteria provided, single submitter",16,28498770,na,na,0
+2805482,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1107A>G (p.Pro369=),"criteria provided, single submitter",16,28489148,na,na,0
+2808859,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+12C>G,"criteria provided, single submitter",16,28493414,na,na,0
+2814064,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.774C>T (p.Ala258=),"criteria provided, single submitter",16,28495343,na,na,0
+2808592,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1236C>T (p.Thr412=),"criteria provided, single submitter",16,28488918,na,na,0
+2817182,CLN3,Deletion,NM_001042432.2(CLN3):c.683del (p.Phe228fs),"criteria provided, single submitter",16,28495434,na,na,1
+2821999,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+18G>T,"criteria provided, single submitter",16,28497650,na,na,0
+2825534,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.534-5C>T,"criteria provided, single submitter",16,28497816,na,na,0
+2825220,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.962+18A>G,"criteria provided, single submitter",16,28493630,na,na,0
+2828446,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-13T>C,"criteria provided, single submitter",16,28494006,na,na,0
+2819413,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+12G>C,"criteria provided, single submitter",16,28498765,na,na,0
+2821360,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.162G>T (p.Val54=),"criteria provided, single submitter",16,28500671,na,na,0
+2824655,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1198-8C>A,"criteria provided, single submitter",16,28488964,na,na,0
+2826379,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.837+1G>T,"criteria provided, single submitter",16,28493946,na,na,1
+2831130,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.528C>T (p.Tyr176=),"criteria provided, single submitter",16,28497904,na,na,0
+2832905,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.321C>A (p.Pro107=),"criteria provided, single submitter",16,28499036,na,na,0
+2834463,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.57C>A (p.Thr19=),"criteria provided, single submitter",16,28502871,na,na,0
+2834512,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1071G>A (p.Val357=),"criteria provided, single submitter",16,28489184,na,na,0
+2839829,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.306G>A (p.Leu102=),"criteria provided, single submitter",16,28499051,na,na,0
+2841434,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+10C>A,"criteria provided, single submitter",16,28497658,na,na,0
+2834231,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-16G>A,"criteria provided, single submitter",16,28499999,na,na,0
+2831367,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-19C>T,"criteria provided, single submitter",16,28499081,na,na,0
+2844559,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.47-2A>T,"criteria provided, single submitter",16,28502883,na,na,1
+2852399,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-8A>C,"criteria provided, single submitter",16,28493527,na,na,0
+2850686,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.461-2A>G,"criteria provided, single submitter",16,28497973,na,na,1
+2855396,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+11C>T,"criteria provided, single submitter",16,28497657,na,na,0
+2853186,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1128G>T (p.Leu376=),"criteria provided, single submitter",16,28489127,na,na,0
+2853419,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-11G>C,"criteria provided, single submitter",16,28500718,na,na,0
+2853451,CLN3,Duplication,NM_001042432.2(CLN3):c.461-3dup,"criteria provided, single submitter",16,28497973,na,na,0
+2855101,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1110C>T (p.Ser370=),"criteria provided, single submitter",16,28489145,na,na,0
+2855238,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1050G>C (p.Leu350=),"criteria provided, single submitter",16,28493432,na,na,0
+2858003,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.882C>G (p.Ala294=),"criteria provided, single submitter",16,28493822,na,na,0
+2858009,CLN3,Duplication,NM_001042432.2(CLN3):c.375-5dup,"criteria provided, single submitter",16,28498866,na,na,0
+2861535,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1293T>C (p.His431=),"criteria provided, single submitter",16,28488861,na,na,0
+2864928,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-12C>T,"criteria provided, single submitter",16,28489210,na,na,0
+2866419,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.579G>A (p.Leu193=),"criteria provided, single submitter",16,28497766,na,na,0
+2858734,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+12C>T,"criteria provided, single submitter",16,28503023,na,na,0
+2873139,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+16C>T,"criteria provided, single submitter",16,28493410,na,na,0
+2878358,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+17A>G,"criteria provided, single submitter",16,28493781,na,na,0
+2881467,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.533+11G>A,"criteria provided, single submitter",16,28497888,na,na,0
+2875820,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.678-14C>T,"criteria provided, single submitter",16,28495453,na,na,0
+2885515,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+12G>T,"criteria provided, single submitter",16,28498765,na,na,0
+2886893,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-16C>G,"criteria provided, single submitter",16,28494009,na,na,0
+2893632,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-16C>T,"criteria provided, single submitter",16,28493535,na,na,0
+2886820,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-9C>A,"criteria provided, single submitter",16,28494002,na,na,0
+2886075,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+14T>A,"criteria provided, single submitter",16,28500597,na,na,0
+2893247,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.838-17T>A,"criteria provided, single submitter",16,28493883,na,na,0
+2903091,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+14C>T,"criteria provided, single submitter",16,28503021,na,na,0
+2904774,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+17G>A,"criteria provided, single submitter",16,28498760,na,na,0
+2906385,CLN3,Duplication,NM_001042432.2(CLN3):c.598_601dup (p.Gly201fs),"criteria provided, single submitter",16,28497743,na,na,1
+2910918,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.223-18A>G,"criteria provided, single submitter",16,28500001,na,na,0
+2912735,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.838-20A>T,"criteria provided, single submitter",16,28493886,na,na,0
+2919616,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.963-20C>T,"criteria provided, single submitter",16,28493539,na,na,0
+2918923,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.46+12C>A,"criteria provided, single submitter",16,28503023,na,na,0
+2909781,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.564T>G (p.Thr188=),"criteria provided, single submitter",16,28497781,na,na,0
+2920124,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+13C>T,"criteria provided, single submitter",16,28500598,na,na,0
+2920674,CLN3,copy number loss,GRCh38/hg38 16p12.1(chr16:28485965-28486930)x1,"criteria provided, single submitter",16,28485965,na,na,1
+2956396,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-14C>T,"criteria provided, single submitter",16,28489212,na,na,0
+2966513,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+12G>A,"criteria provided, single submitter",16,28498765,na,na,0
+2966522,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.126-16G>A,"criteria provided, single submitter",16,28500723,na,na,0
+2964893,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-20C>T,"criteria provided, single submitter",16,28494013,na,na,0
+2967453,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.460+20T>A,"criteria provided, single submitter",16,28498757,na,na,0
+2976824,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+10C>T,"criteria provided, single submitter",16,28497658,na,na,0
+2969189,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+17C>T,"criteria provided, single submitter",16,28500594,na,na,0
+2990120,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.222+19C>T,"criteria provided, single submitter",16,28500592,na,na,0
+2985671,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.837+17G>C,"criteria provided, single submitter",16,28493930,na,na,0
+2985891,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.906+18G>C,"criteria provided, single submitter",16,28493780,na,na,0
+2990994,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.510C>T (p.Leu170=),"criteria provided, single submitter",16,28497922,na,na,0
+2998854,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.533+12G>A,"criteria provided, single submitter",16,28497887,na,na,0
+2998188,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.228C>T (p.Asp76=),"criteria provided, single submitter",16,28499978,na,na,0
+3008900,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.125+9C>A,"criteria provided, single submitter",16,28502794,na,na,0
+2998002,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.534-17T>C,"criteria provided, single submitter",16,28497828,na,na,0
+3001479,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-18T>C,"criteria provided, single submitter",16,28499080,na,na,0
+3005039,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.791-15T>C,"criteria provided, single submitter",16,28494008,na,na,0
+3008302,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.42C>A (p.Ser14=),"criteria provided, single submitter",16,28503039,na,na,0
+3014299,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1057-14C>G,"criteria provided, single submitter",16,28489212,na,na,0
+3014424,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.60C>T (p.Val20=),"criteria provided, single submitter",16,28502868,na,na,0
+3017992,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+18C>T,"criteria provided, single submitter",16,28493408,na,na,0
+3019728,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1125C>T (p.Phe375=),"criteria provided, single submitter",16,28489130,na,na,0
+3015484,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+15G>T,"criteria provided, single submitter",16,28489043,na,na,0
+3015595,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1197+18A>G,"criteria provided, single submitter",16,28489040,na,na,0
+3019350,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.1056+20C>T,"criteria provided, single submitter",16,28493406,na,na,0
+3020760,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.790+19C>G,"criteria provided, single submitter",16,28495308,na,na,0
+3241174,CLN3,Deletion,NM_001042432.2(CLN3):c.936_937del (p.Leu313fs),"criteria provided, single submitter",16,28493673,na,na,1
+3241175,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.677+1G>A,"criteria provided, single submitter",16,28497667,na,na,1
+3243303,CLN3,Deletion,NC_000016.9:g.(?_28488837)_(28503080_?)del,"criteria provided, single submitter",16,28488837,na,na,1
+3243304,CLN3,Deletion,NC_000016.9:g.(?_28493406)_(28494013_?)del,"criteria provided, single submitter",16,28493406,na,na,1
+3243305,CLN3,Deletion,NC_000016.9:g.(?_28488837)_(28494013_?)del,"criteria provided, single submitter",16,28488837,na,na,1
+3243306,CLN3,Deletion,NC_000016.9:g.(?_28498757)_(28503080_?)del,"criteria provided, single submitter",16,28498757,na,na,1
+3243307,CLN3,Deletion,NC_000016.9:g.(?_28495875)_(28499994_?)del,"criteria provided, single submitter",16,28495875,na,na,1
+3243309,CLN3,Deletion,NC_000016.9:g.(?_28498757)_(28499082_?)del,"criteria provided, single submitter",16,28498757,na,na,1
+3243310,CLN3,Duplication,NC_000016.9:g.(?_28493406)_(28500727_?)dup,"criteria provided, single submitter",16,28493406,na,na,1
+3249019,CLN3,single nucleotide variant,NM_001042432.2(CLN3):c.295-2A>G,no assertion criteria provided,16,28499064,na,na,1
+3250318,CLN3,Deletion,NM_001042432.2:c.(460+1_461-1)_(677+1_678-1)del,"criteria provided, single submitter",na,-1,na,na,1
+3580040,CLN3,Duplication,NM_001042432.2(CLN3):c.461dup,"criteria provided, single submitter",16,28497970,na,na,1
+3580041,CLN3,Deletion,NM_001042432.2(CLN3):c.196_197del (p.Lys66fs),"criteria provided, single submitter",16,28500636,na,na,1
+3580042,CLN3,Deletion,NM_001042432.2(CLN3):c.181_183del (p.Asp61del),"criteria provided, single submitter",16,28500650,na,na,1

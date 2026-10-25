@@ -1,0 +1,2 @@
+experiment,train_year,test_year,train_rows,test_rows,feature_count,overlap_audit_completed,threshold_from_2025_oof,2025_oof_roc_auc,2025_oof_f1,accuracy,roc_auc,pr_auc,precision,recall,f1
+WITH_AF,2025,2026,136,12,27,True,0.4199999999999998,0.9686355311355311,0.9634146341463414,1.0,1.0,1.0,1.0,1.0,1.0

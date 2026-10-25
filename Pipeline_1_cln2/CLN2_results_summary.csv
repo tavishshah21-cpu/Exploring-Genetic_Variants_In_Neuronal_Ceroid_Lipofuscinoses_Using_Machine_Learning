@@ -1,0 +1,2 @@
+Gene,Train_year,Test_year,Accuracy,ROC_AUC,PR_AUC,CV_ROC_2025,OOF_ROC_AUC_2025,Threshold,Threshold_source,Train_size,Test_size,Train_Pathogenic,Train_Benign,Test_Pathogenic,Test_Benign
+CLN2,2025,2026,0.9768,0.9954,0.9948,0.9943,0.9947,0.540289,2025 OOF predictions,453,475,163,290,176,299

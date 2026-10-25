@@ -1,0 +1,2 @@
+Training_year,Method,Selection_metric,Threshold,OOF_F1,OOF_ROC_AUC
+2025,5-fold outer OOF predictions from Pipeline 3 stacking,F1-score,0.07048021522937595,0.9470588235289125,0.9316389132340053

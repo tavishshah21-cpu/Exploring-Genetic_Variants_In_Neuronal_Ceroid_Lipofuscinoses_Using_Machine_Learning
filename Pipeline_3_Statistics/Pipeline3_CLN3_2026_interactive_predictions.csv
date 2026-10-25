@@ -1,0 +1,2 @@
+Gene,Variant_identifier,Predicted_value,Predicted_class,Pathogenicity_probability,Benign_probability,Threshold,Features_supplied,Training_year
+CLN3,212,0,BENIGN,0.10412250599527448,0.8958774940047255,0.6305648883471898,1,2026

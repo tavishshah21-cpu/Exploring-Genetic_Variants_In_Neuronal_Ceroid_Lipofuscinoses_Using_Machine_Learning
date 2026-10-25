@@ -1,0 +1,2 @@
+Training_Dataset,External_Dataset,Training_Rows,External_Candidate_Rows,Biological_Features_Used,Final_Feature_Count_Including_Missing_Indicators,Cross_Validation_Folds,Prediction_Threshold,Predicted_Pathogenic,Predicted_Benign
+CLN3_2026_CLN3_ML_READY.csv,CLN3_gnomAD_external_candidates_CLN3_ML_READY.csv,469,1882,26,52,5,0.5,354,1528

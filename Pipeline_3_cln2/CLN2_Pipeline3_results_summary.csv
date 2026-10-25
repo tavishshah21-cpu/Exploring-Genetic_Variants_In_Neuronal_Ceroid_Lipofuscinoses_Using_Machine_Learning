@@ -1,0 +1,2 @@
+Gene,Pipeline,Train_year,Test_year,Base_models,Meta_model,Accuracy,ROC_AUC,PR_AUC,CV_ROC_2025,OOF_ROC_AUC_2025,Threshold,Threshold_source,Train_size,Test_size,Train_Pathogenic,Train_Benign,Test_Pathogenic,Test_Benign
+CLN2,Pipeline 3 Stacking,2025,2026,Random Forest; Gradient Boosting; Extra Trees,Logistic Regression,0.95,0.9934,0.9989,0.9438,0.9316,0.07048,2025 outer OOF predictions,184,200,163,21,175,25

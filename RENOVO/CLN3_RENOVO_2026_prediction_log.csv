@@ -1,0 +1,4 @@
+Variant,Status,Predicted_class,Predicted_label,Pathogenic_probability,Benign_probability,Threshold,Features_provided
+341,OK,Pathogenic,1.0,0.3762827390599537,0.6237172609400463,0.3416908677053022,1
+,INSUFFICIENT INPUT,,,,,0.3416908677053022,0
+,INSUFFICIENT INPUT,,,,,0.3416908677053022,0

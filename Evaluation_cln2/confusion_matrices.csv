@@ -1,0 +1,4 @@
+Model,TN_Benign_Correct,FP_Benign_Predicted_Pathogenic,FN_Pathogenic_Predicted_Benign,TP_Pathogenic_Correct
+Pipeline3_Stacking,22,3,0,175
+RENOVO_XGBoost,10,15,1,174
+ML_Graph_XGBoost,21,4,15,160

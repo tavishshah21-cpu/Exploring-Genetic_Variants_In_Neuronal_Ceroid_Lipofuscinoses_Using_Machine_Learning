@@ -1,0 +1,19 @@
+Experiment: WITH_AF
+Training data: 2025
+Temporal test data: 2026
+Threshold from 2025 OOF: 0.4200
+2025 OOF ROC-AUC: 0.968636
+2026 ROC-AUC: 1.000000
+
+              precision    recall  f1-score   support
+
+      Benign     1.0000    1.0000    1.0000         1
+  Pathogenic     1.0000    1.0000    1.0000        11
+
+    accuracy                         1.0000        12
+   macro avg     1.0000    1.0000    1.0000        12
+weighted avg     1.0000    1.0000    1.0000        12
+
+Confusion matrix:
+[[ 1  0]
+ [ 0 11]]

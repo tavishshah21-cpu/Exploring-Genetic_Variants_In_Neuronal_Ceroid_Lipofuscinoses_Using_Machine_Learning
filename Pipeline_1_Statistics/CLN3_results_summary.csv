@@ -1,0 +1,2 @@
+Gene,Train_year,Test_year,Accuracy,ROC_AUC,PR_AUC,CV_ROC_2025,OOF_ROC_AUC_2025,OOF_F1_2025,Threshold,Threshold_source,Final_estimators,Train_size,Test_size,Train_Pathogenic,Train_Benign,Test_Pathogenic,Test_Benign,Final_scale_pos_weight
+CLN3,2025,2026,0.9829,0.9988,0.9971,0.9943,0.9945,0.9684,0.619605541229248,2025 out-of-fold predictions,1200,437,469,146,291,167,302,1.9931506849315068

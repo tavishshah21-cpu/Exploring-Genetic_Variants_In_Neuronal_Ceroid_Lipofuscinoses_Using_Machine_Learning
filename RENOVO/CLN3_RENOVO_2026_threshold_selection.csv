@@ -1,0 +1,2 @@
+Gene,Training_year,Algorithm,Threshold_method,Threshold_metric,Threshold,OOF_F1,OOF_ROC_AUC,Mean_fold_ROC_AUC
+CLN3,2026,RandomForestClassifier,5-fold out-of-fold predictions,F1-score,0.3416908677053022,0.9398280802287271,0.9865963437363683,0.9860877336528253

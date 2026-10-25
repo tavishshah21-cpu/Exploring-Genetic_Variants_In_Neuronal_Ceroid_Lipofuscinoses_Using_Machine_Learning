@@ -1,0 +1,2 @@
+Gene,Pipeline,Training_year,Training_rows,Feature_count,Benign_rows,Pathogenic_rows,Base_models,Meta_model,Threshold,Threshold_source,Threshold_metric,OOF_ROC_AUC,OOF_F1
+CLN3,Pipeline 3 Stacking,2026,469,54,302,167,Random Forest; Gradient Boosting; Extra Trees,Logistic Regression,0.6305648883471898,Five-fold OOF predictions on 2026,F1-score,0.9951818217868897,0.972644376899196
